@@ -1,0 +1,3304 @@
+{
+    "categories": ["Фото-студия", "Сумки и изделия из кожи", "Женская одежда", "Обувь", "Детская одежда", "Childrens Apparel/Footwear", "Кафе", "Уход за волосами", "Парикмахерская", "Развлечения для детей", "Мобильная связь", "Супермаркет", "Быт. техника и электроника", "Маникюр&Педикюр", "Beauty/Cosmetics", "Салон красоты"],
+    "list": [{
+        "place": "Sevastopolsky",
+        "name": "Ашан Сити",
+        "logo": "http://enka.mallframe.com/images/brands/60_low.png?1384528070",
+        "categories": ["Продовольственные товары", "Супермаркет"],
+        "count": 7
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Связной",
+        "logo": "http://enka.mallframe.com/images/brands/87_low.png?1434972086",
+        "categories": ["Мобильная связь"],
+        "count": 9
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Космик",
+        "logo": "http://enka.mallframe.com/images/brands/97_low.png?1384523497",
+        "categories": ["Боулинг", "Игровые Автоматы", "Рестораны", "Кафе"],
+        "count": 4
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Incanto",
+        "logo": "http://enka.mallframe.com/images/brands/414_low.jpg?1466001454",
+        "categories": [],
+        "count": 4
+    }, {
+        "place": "Sevastopolsky",
+        "name": "GANT",
+        "logo": "http://enka.mallframe.com/images/brands/36_low.png?1384787103",
+        "categories": ["Мужская одежда", "Женская одежда"],
+        "count": 4
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Starbucks",
+        "logo": "http://enka.mallframe.com/images/brands/65_low.jpg?1390696476",
+        "categories": ["Кафе"],
+        "count": 7
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Pandora",
+        "logo": "http://enka.mallframe.com/images/brands/327_low.jpg?1383152332",
+        "categories": ["Ювелирные изделия и часы"],
+        "count": 14
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Лены Лениной",
+        "logo": "http://enka.mallframe.com/images/brands/360_low.jpg?1503580192",
+        "categories": ["Салон красоты"],
+        "count": 4
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Nikko",
+        "logo": "http://enka.mallframe.com/images/brands/144_low.jpg?1474544787",
+        "categories": ["Химчистка - ателье - ремонт"],
+        "count": 6
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Юнистрим",
+        "logo": "http://enka.mallframe.com/images/brands/344_low.png?1396963064",
+        "categories": ["Банковские услуги"],
+        "count": 3
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Промод",
+        "logo": "http://enka.mallframe.com/images/brands/221_low.png?1396963115",
+        "categories": ["Женская одежда"],
+        "count": 3
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Гленфилд",
+        "logo": "http://enka.mallframe.com/images/brands/148_low.png?1387901069",
+        "categories": ["Мужская одежда", "Женская одежда"],
+        "count": 2
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Нияма",
+        "logo": "http://enka.mallframe.com/images/brands/343_low.png?1384788048",
+        "categories": ["Рестораны", "Фуд-корт"],
+        "count": 1
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Макдоналдс",
+        "logo": "http://enka.mallframe.com/images/brands/9_low.png?1428246443",
+        "categories": ["Фуд-корт"],
+        "count": 10
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Каро Фильм",
+        "logo": "http://enka.mallframe.com/images/brands/1_low.png?1400589421",
+        "categories": ["Кино", "Игровые Автоматы"],
+        "count": 4
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Скоро Мама",
+        "logo": "http://enka.mallframe.com/images/brands/228_low.png?1389633434",
+        "categories": ["Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Любимчик",
+        "logo": "http://enka.mallframe.com/images/brands/846_low.jpg?1512486970",
+        "categories": ["Товары для животных"],
+        "count": 1
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Elistin",
+        "logo": "http://enka.mallframe.com/images/brands/484_low.png?1396882684",
+        "categories": ["Агентства"],
+        "count": 1
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Messer Meister",
+        "logo": "http://enka.mallframe.com/images/brands/485_low.png?1396882800",
+        "categories": ["Агентства"],
+        "count": 1
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Банкомат / Платежный Автомат (Этаж 1)",
+        "logo": "http://enka.mallframe.com/images/brands/474_low.png?1435065276",
+        "categories": ["Банкомат / Платежный Автомат"],
+        "count": 7
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Дисконт - Оптика",
+        "logo": "http://enka.mallframe.com/images/brands/184_low.png?1396962629",
+        "categories": ["Оптика"],
+        "count": 1
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Теремок",
+        "logo": "http://enka.mallframe.com/images/brands/17_low.jpg?1503059194",
+        "categories": ["Фуд-корт"],
+        "count": 10
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Mothercare",
+        "logo": "http://enka.mallframe.com/images/brands/98_low.png?1396524361",
+        "categories": ["Детская одежда", "Игрушки", "Детская обувь"],
+        "count": 8
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Gipfel",
+        "logo": "http://enka.mallframe.com/images/brands/154_low.png?1384787179",
+        "categories": ["Товары для дома"],
+        "count": 10
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Книжный Лабиринт",
+        "logo": "http://enka.mallframe.com/images/brands/539_low.png?1410767867",
+        "categories": ["Книги - мультимедия- Подарки"],
+        "count": 6
+    }, {
+        "place": "Sevastopolsky",
+        "name": "МОСКОВСКИЙ ЮВЕЛИРНЫЙ ЗАВОД",
+        "logo": "http://enka.mallframe.com/images/brands/268_low.png?1460727654",
+        "categories": ["Ювелирные изделия и часы"],
+        "count": 1
+    }, {
+        "place": "Sevastopolsky",
+        "name": "МТС",
+        "logo": "http://enka.mallframe.com/images/brands/71_low.png?1384787999",
+        "categories": ["Мобильная связь"],
+        "count": 9
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Магистраль",
+        "logo": "http://enka.mallframe.com/images/brands/778_low.jpg?1490267318",
+        "categories": ["Женская одежда", "Нижнее бельё"],
+        "count": 2
+    }, {
+        "place": "Sevastopolsky",
+        "name": "4 Hands/Brow Bar",
+        "logo": "http://enka.mallframe.com/images/brands/780_low.jpg?1490268701",
+        "categories": ["Маникюр&Педикюр", "Салон красоты"],
+        "count": 1
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Табак",
+        "logo": "http://enka.mallframe.com/images/brands/192_low.png?1466766003",
+        "categories": ["Продовольственные товары"],
+        "count": 1
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Абикон Фарма",
+        "logo": "http://enka.mallframe.com/images/brands/706_low.png?1466766186",
+        "categories": ["Аптека"],
+        "count": 1
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Точка Красоты",
+        "logo": "http://enka.mallframe.com/images/brands/532_low.png?1423470308",
+        "categories": ["Салон красоты", "Парикмахерская"],
+        "count": 6
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Крошка-Картошка",
+        "logo": "http://enka.mallframe.com/images/brands/20_low.png?1406642293",
+        "categories": ["Кафе", "Фуд-корт"],
+        "count": 9
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Пиро Росс",
+        "logo": "http://enka.mallframe.com/images/brands/549_low.png?1425042811",
+        "categories": ["Женская одежда"],
+        "count": 2
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Техно парк",
+        "logo": "http://enka.mallframe.com/images/brands/372_low.png?1493713377",
+        "categories": ["Мобильная связь", "Быт. техника и электроника", "Товары для дома"],
+        "count": 4
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Суши Mаке",
+        "logo": "http://enka.mallframe.com/images/brands/558_low.jpg?1474547107",
+        "categories": ["Рестораны", "Фуд-корт"],
+        "count": 6
+    }, {
+        "place": "Sevastopolsky",
+        "name": "KFC",
+        "logo": "http://enka.mallframe.com/images/brands/418_low.png?1384869557",
+        "categories": ["Рестораны", "Кафе", "Фуд-корт"],
+        "count": 10
+    }, {
+        "place": "Sevastopolsky",
+        "name": "НЕБО",
+        "logo": "http://enka.mallframe.com/images/brands/745_low.png?1475846832",
+        "categories": ["Батут", "Спорт"],
+        "count": 1
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Little Star",
+        "logo": "http://enka.mallframe.com/images/brands/756_low.jpg?1522768905",
+        "categories": ["Развлечения для детей"],
+        "count": 1
+    }, {
+        "place": "Sevastopolsky",
+        "name": "GO! Coffee!",
+        "logo": "http://enka.mallframe.com/images/brands/743_low.jpg?1516094717",
+        "categories": ["Фуд-корт"],
+        "count": 2
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Напёрсток",
+        "logo": "http://enka.mallframe.com/images/brands/779_low.jpg?1524137950",
+        "categories": ["Товары для дома"],
+        "count": 3
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Black & White Подарки",
+        "logo": "http://enka.mallframe.com/images/brands/799_low.jpg?1496743365",
+        "categories": ["Подарки и Сувениры"],
+        "count": 2
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Глория Джинс",
+        "logo": "http://enka.mallframe.com/images/brands/263_low.jpg?1497634664",
+        "categories": ["Мужская одежда", "Женская одежда"],
+        "count": 3
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Pronto Moda",
+        "logo": "http://enka.mallframe.com/images/brands/832_low.jpg?1505217691",
+        "categories": ["Сумки и изделия из кожи", "Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Воображуля",
+        "logo": "http://enka.mallframe.com/images/brands/772_low.jpg?1486471570",
+        "categories": ["Парикмахерская"],
+        "count": 2
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Twin Boots",
+        "logo": "http://enka.mallframe.com/images/brands/833_low.jpg?1505219580",
+        "categories": ["Детская обувь"],
+        "count": 1
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Gulliver",
+        "logo": "http://enka.mallframe.com/images/brands/103_low.png?1447659108",
+        "categories": ["Детская одежда", "Детская обувь"],
+        "count": 5
+    }, {
+        "place": "Sevastopolsky",
+        "name": "MODI Fun Shop",
+        "logo": "http://enka.mallframe.com/images/brands/843_low.jpg?1510131171",
+        "categories": ["Бижутерия", "Подарки и Сувениры", "Книги - мультимедия- Подарки"],
+        "count": 2
+    }, {
+        "place": "Sevastopolsky",
+        "name": "1001DRESS",
+        "logo": "http://enka.mallframe.com/images/brands/839_low.jpg?1509795318",
+        "categories": ["Женская одежда"],
+        "count": 2
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Евросеть",
+        "logo": "http://enka.mallframe.com/images/brands/201_low.jpg?1505909760",
+        "categories": ["Мобильная связь"],
+        "count": 3
+    }, {
+        "place": "Sevastopolsky",
+        "name": "HOME Fantasy",
+        "logo": "http://enka.mallframe.com/images/brands/848_low.jpg?1511179399",
+        "categories": ["Подарки и Сувениры", "Быт. техника и электроника", "Товары для дома"],
+        "count": 2
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Калина Маркет",
+        "logo": "http://enka.mallframe.com/images/brands/847_low.jpg?1511166616",
+        "categories": ["Бижутерия", "Подарки и Сувениры", "Мужская одежда", "Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Mileedi",
+        "logo": "http://enka.mallframe.com/images/brands/542_low.jpg?1413457521",
+        "categories": ["Обувь"],
+        "count": 2
+    }, {
+        "place": "Sevastopolsky",
+        "name": "Сильвер Энд Сильвер",
+        "logo": "http://enka.mallframe.com/images/brands/295_low.jpg?1503563848",
+        "categories": ["Ювелирные изделия и часы"],
+        "count": 2
+    }, {
+        "place": "Sevastopolsky",
+        "name": "МУЛЬТИФОТО",
+        "logo": "http://enka.mallframe.com/images/brands/871_low.jpg?1520860429",
+        "categories": ["Фото-студия"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "World Class",
+        "logo": "http://enka.mallframe.com/images/brands/106_low.png?1384788754",
+        "categories": ["Фитнес"],
+        "count": 3
+    }, {
+        "place": "Vernadskogo",
+        "name": "Адидас Kids",
+        "logo": "http://enka.mallframe.com/images/brands/99_low.png?1435041779",
+        "categories": ["Спорт", "Детская одежда", "Детская обувь"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Весело Шагать",
+        "logo": "http://enka.mallframe.com/images/brands/124_low.png?1384788636",
+        "categories": ["Детская обувь"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Lego",
+        "logo": "http://enka.mallframe.com/images/brands/104_low.png?1384787601",
+        "categories": ["Игрушки"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "ELC",
+        "logo": "http://enka.mallframe.com/images/brands/100_low.png?1442309224",
+        "categories": ["Игрушки"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Timberland",
+        "logo": "http://enka.mallframe.com/images/brands/72_low.jpg?1519200540",
+        "categories": ["Мужская одежда", "Обувь"],
+        "count": 3
+    }, {
+        "place": "Vernadskogo",
+        "name": "Samsonite",
+        "logo": "http://enka.mallframe.com/images/brands/79_low.jpg?1455025260",
+        "categories": ["Сумки и изделия из кожи"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "L'occitane",
+        "logo": "http://enka.mallframe.com/images/brands/426_low.png?1384869673",
+        "categories": ["Ванная и Сауна"],
+        "count": 6
+    }, {
+        "place": "Vernadskogo",
+        "name": "Erborian",
+        "logo": "http://enka.mallframe.com/images/brands/868_low.jpg?1519305600",
+        "categories": ["Парфюмерия и косметика"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "MAC",
+        "logo": "http://enka.mallframe.com/images/brands/81_low.png?1384787747",
+        "categories": ["Парфюмерия и косметика"],
+        "count": 3
+    }, {
+        "place": "Vernadskogo",
+        "name": "Kiehl's",
+        "logo": "http://enka.mallframe.com/images/brands/419_low.png?1384869569",
+        "categories": ["Парфюмерия и косметика"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "Yves Rocher",
+        "logo": "http://enka.mallframe.com/images/brands/83_low.png?1427099957",
+        "categories": ["Парфюмерия и косметика"],
+        "count": 5
+    }, {
+        "place": "Vernadskogo",
+        "name": "Stefanel",
+        "logo": "http://enka.mallframe.com/images/brands/440_low.png?1384869900",
+        "categories": ["Женская одежда"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "New Balance",
+        "logo": "http://enka.mallframe.com/images/brands/431_low.png?1384869754",
+        "categories": ["Обувь", "Спорт", "Мужская одежда"],
+        "count": 3
+    }, {
+        "place": "Vernadskogo",
+        "name": "Marc O'Polo",
+        "logo": "http://enka.mallframe.com/images/brands/385_low.png?1384178133",
+        "categories": ["Мужская одежда", "Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "DKNY",
+        "logo": "http://enka.mallframe.com/images/brands/403_low.png?1384869287",
+        "categories": ["Сумки и изделия из кожи"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Cook House",
+        "logo": "http://enka.mallframe.com/images/brands/398_low.png?1384869235",
+        "categories": ["Товары для дома", "Быт. техника и электроника"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Эстель Адонис",
+        "logo": "http://enka.mallframe.com/images/brands/70_low.png?1384786803",
+        "categories": ["Нижнее бельё"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "Calzedonia",
+        "logo": "http://enka.mallframe.com/images/brands/317_low.png?1384786345",
+        "categories": ["Женская одежда", "Нижнее бельё"],
+        "count": 6
+    }, {
+        "place": "Vernadskogo",
+        "name": "Русстройбанк Обменный Пункт",
+        "logo": "http://enka.mallframe.com/images/brands/59_low.png?1390615417",
+        "categories": ["Банковские услуги"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "Л'Этуаль",
+        "logo": "http://enka.mallframe.com/images/brands/63_low.png?1447148029",
+        "categories": ["Парфюмерия и косметика"],
+        "count": 10
+    }, {
+        "place": "Vernadskogo",
+        "name": "Roberto Bravo",
+        "logo": "http://enka.mallframe.com/images/brands/90_low.jpg?1486455105",
+        "categories": ["Ювелирные изделия и часы"],
+        "count": 3
+    }, {
+        "place": "Vernadskogo",
+        "name": "French Kiss",
+        "logo": "http://enka.mallframe.com/images/brands/324_low.jpg?1506430420",
+        "categories": ["Подарки и Сувениры", "Продовольственные товары"],
+        "count": 3
+    }, {
+        "place": "Vernadskogo",
+        "name": "Victoria's Secret",
+        "logo": "http://enka.mallframe.com/images/brands/353_low.png?1384788655",
+        "categories": ["Женская одежда", "Нижнее бельё"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Линзмастер",
+        "logo": "http://enka.mallframe.com/images/brands/69_low.png?1435043500",
+        "categories": ["Оптика"],
+        "count": 3
+    }, {
+        "place": "Vernadskogo",
+        "name": "МегаФон",
+        "logo": "http://enka.mallframe.com/images/brands/157_low.png?1413456609",
+        "categories": ["Мобильная связь"],
+        "count": 8
+    }, {
+        "place": "Vernadskogo",
+        "name": "Zara",
+        "logo": "http://enka.mallframe.com/images/brands/26_low.png?1384788796",
+        "categories": ["Мужская одежда", "Женская одежда", "Обувь", "Детская обувь"],
+        "count": 3
+    }, {
+        "place": "Vernadskogo",
+        "name": "Rendez Vous",
+        "logo": "http://enka.mallframe.com/images/brands/435_low.jpg?1525692276",
+        "categories": ["Обувь", "Детская обувь", "Сумки и изделия из кожи"],
+        "count": 3
+    }, {
+        "place": "Vernadskogo",
+        "name": "Пулл-Н-Биар",
+        "logo": "http://enka.mallframe.com/images/brands/222_low.jpg?1383152409",
+        "categories": ["Мужская одежда", "Женская одежда"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "Экко",
+        "logo": "http://enka.mallframe.com/images/brands/113_low.png?1384786663",
+        "categories": ["Обувь"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "Tous",
+        "logo": "http://enka.mallframe.com/images/brands/441_low.png?1384869911",
+        "categories": ["Бижутерия", "Сумки и изделия из кожи"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "Шоколадница",
+        "logo": "http://enka.mallframe.com/images/brands/67_low.png?1426490340",
+        "categories": ["Кафе"],
+        "count": 4
+    }, {
+        "place": "Vernadskogo",
+        "name": "Боди Шоп",
+        "logo": "http://enka.mallframe.com/images/brands/86_low.jpg?1383152497",
+        "categories": ["Парфюмерия и косметика"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "Джинс Симфони",
+        "logo": "http://enka.mallframe.com/images/brands/45_low.png?1434980802",
+        "categories": ["Мужская одежда", "Женская одежда"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "CoffeeShop Company",
+        "logo": "http://enka.mallframe.com/images/brands/379_low.png?1434980738",
+        "categories": ["Кафе"],
+        "count": 3
+    }, {
+        "place": "Vernadskogo",
+        "name": "Crocs",
+        "logo": "http://enka.mallframe.com/images/brands/330_low.png?1434980390",
+        "categories": ["Обувь"],
+        "count": 5
+    }, {
+        "place": "Vernadskogo",
+        "name": "Фаби",
+        "logo": "http://enka.mallframe.com/images/brands/39_low.png?1384786830",
+        "categories": ["Обувь"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "Иль Де Ботэ",
+        "logo": "http://enka.mallframe.com/images/brands/30_low.png?1384787336",
+        "categories": ["Парфюмерия и косметика"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Women' Secret",
+        "logo": "http://enka.mallframe.com/images/brands/53_low.png?1384788720",
+        "categories": ["Нижнее бельё"],
+        "count": 3
+    }, {
+        "place": "Vernadskogo",
+        "name": "LEVI'S",
+        "logo": "http://enka.mallframe.com/images/brands/47_low.png?1384787632",
+        "categories": ["Мужская одежда", "Женская одежда"],
+        "count": 4
+    }, {
+        "place": "Vernadskogo",
+        "name": "Торро Гриль",
+        "logo": "http://enka.mallframe.com/images/brands/29_low.png?1384788585",
+        "categories": ["Рестораны"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "BML",
+        "logo": "http://enka.mallframe.com/images/brands/392_low.png?1384869136",
+        "categories": ["Мужская одежда", "Обувь"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Lacoste",
+        "logo": "http://enka.mallframe.com/images/brands/40_low.jpg?1383152176",
+        "categories": ["Мужская одежда", "Женская одежда", "Обувь", "Спорт"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "Бальдинини",
+        "logo": "http://enka.mallframe.com/images/brands/43_low.png?1384786132",
+        "categories": ["Обувь"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Катерина Леман",
+        "logo": "http://enka.mallframe.com/images/brands/41_low.png?1426158730",
+        "categories": ["Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Пилотаж",
+        "logo": "http://enka.mallframe.com/images/brands/21_low.png?1384788201",
+        "categories": ["Игрушки"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Мистер Сумкин",
+        "logo": "http://enka.mallframe.com/images/brands/19_low.png?1433923193",
+        "categories": ["Сумки и изделия из кожи"],
+        "count": 6
+    }, {
+        "place": "Vernadskogo",
+        "name": "OSTERIA MARIO",
+        "logo": "http://enka.mallframe.com/images/brands/874_low.jpg?1521122473",
+        "categories": ["Рестораны"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "МОНЕ",
+        "logo": "http://enka.mallframe.com/images/brands/350_low.png?1435043703",
+        "categories": ["Салон красоты", "Маникюр&Педикюр"],
+        "count": 3
+    }, {
+        "place": "Vernadskogo",
+        "name": "Адидас",
+        "logo": "http://enka.mallframe.com/images/brands/8_low.jpg?1391738433",
+        "categories": ["Спорт", "Обувь", "Мужская одежда"],
+        "count": 6
+    }, {
+        "place": "Vernadskogo",
+        "name": "Reebok",
+        "logo": "http://enka.mallframe.com/images/brands/10_low.png?1384788284",
+        "categories": ["Спорт"],
+        "count": 5
+    }, {
+        "place": "Vernadskogo",
+        "name": "Воккер",
+        "logo": "http://enka.mallframe.com/images/brands/22_low.png?1384788688",
+        "categories": ["Фуд-корт"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "Ливан Хаус",
+        "logo": "http://enka.mallframe.com/images/brands/18_low.png?1384787665",
+        "categories": ["Фуд-корт"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "Jony Rockets",
+        "logo": "http://enka.mallframe.com/images/brands/386_low.png?1384523492",
+        "categories": ["Рестораны"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Бургер Кинг",
+        "logo": "http://enka.mallframe.com/images/brands/11_low.jpg?1383152069",
+        "categories": ["Фуд-корт"],
+        "count": 7
+    }, {
+        "place": "Vernadskogo",
+        "name": "Gasprom",
+        "logo": "http://enka.mallframe.com/images/brands/448_low.png?1387892802",
+        "categories": ["Бизнес-центр"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "Dow Agrosciences",
+        "logo": "http://enka.mallframe.com/images/brands/452_low.png?1387894194",
+        "categories": ["Бизнес-центр"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Dow",
+        "logo": "http://enka.mallframe.com/images/brands/451_low.png?1387893327",
+        "categories": ["Бизнес-центр"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Imaginarium",
+        "logo": "http://enka.mallframe.com/images/brands/453_low.png?1426157825",
+        "categories": ["Игрушки"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "Stradivarius",
+        "logo": "http://enka.mallframe.com/images/brands/455_low.png?1435043332",
+        "categories": ["Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Marella",
+        "logo": "http://enka.mallframe.com/images/brands/456_low.png?1434980672",
+        "categories": ["Женская одежда"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "TGI Friday's",
+        "logo": "http://enka.mallframe.com/images/brands/457_low.png?1415708166",
+        "categories": ["Рестораны", "Фуд-корт"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "Marc Cain",
+        "logo": "http://enka.mallframe.com/images/brands/454_low.jpg?1520942341",
+        "categories": ["Женская одежда"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "Bobbi Brown",
+        "logo": "http://enka.mallframe.com/images/brands/462_low.png?1388125907",
+        "categories": ["Парфюмерия и косметика"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Город Игрушек",
+        "logo": "http://enka.mallframe.com/images/brands/463_low.png?1413547044",
+        "categories": ["Игрушки"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "Банкомат / Платежный Автомат (Этаж 3)",
+        "logo": "http://enka.mallframe.com/images/brands/472_low.png?1435065295",
+        "categories": ["Банкомат / Платежный Автомат"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "36.6",
+        "logo": "http://enka.mallframe.com/images/brands/480_low.png?1427098304",
+        "categories": ["Аптека"],
+        "count": 3
+    }, {
+        "place": "Vernadskogo",
+        "name": "Гавана",
+        "logo": "http://enka.mallframe.com/images/brands/481_low.png?1395658614",
+        "categories": ["Табак-Cигареты"],
+        "count": 3
+    }, {
+        "place": "Vernadskogo",
+        "name": "Ля Флёр",
+        "logo": "http://enka.mallframe.com/images/brands/482_low.png?1395660401",
+        "categories": ["Цветы"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Grano",
+        "logo": "http://enka.mallframe.com/images/brands/411_low.png?1384869446",
+        "categories": ["Рестораны"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Fiorita",
+        "logo": "http://enka.mallframe.com/images/brands/505_low.png?1401099979",
+        "categories": ["Сумки и изделия из кожи"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Старлайт",
+        "logo": "http://enka.mallframe.com/images/brands/62_low.png?1384523521",
+        "categories": ["Рестораны"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Nespresso",
+        "logo": "http://enka.mallframe.com/images/brands/544_low.png?1415691683",
+        "categories": ["Товары для дома", "Быт. техника и электроника", "Кофе и Чай"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "Time Avenue",
+        "logo": "http://enka.mallframe.com/images/brands/861_low.jpg?1515509339",
+        "categories": ["Ювелирные изделия и часы"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "SuperStep",
+        "logo": "http://enka.mallframe.com/images/brands/622_low.png?1434981309",
+        "categories": ["Обувь", "Спорт"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Сабвэй",
+        "logo": "http://enka.mallframe.com/images/brands/232_low.png?1434980643",
+        "categories": ["Фуд-корт"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Falke",
+        "logo": "http://enka.mallframe.com/images/brands/623_low.jpg?1524129340",
+        "categories": ["Нижнее бельё"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "Mezzatorre",
+        "logo": "http://enka.mallframe.com/images/brands/854_low.jpg?1513683760",
+        "categories": ["Женская одежда"],
+        "count": 3
+    }, {
+        "place": "Vernadskogo",
+        "name": "Хинкальная",
+        "logo": "http://enka.mallframe.com/images/brands/625_low.png?1435040201",
+        "categories": ["Рестораны"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "Vivie",
+        "logo": "http://enka.mallframe.com/images/brands/627_low.png?1435041251",
+        "categories": ["Сумки и изделия из кожи"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "Browissimo",
+        "logo": "http://enka.mallframe.com/images/brands/678_low.jpg?1449656630",
+        "categories": ["Салон красоты"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Адидас Ориджинал",
+        "logo": "http://enka.mallframe.com/images/brands/689_low.png?1458719520",
+        "categories": ["Спорт"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Pho Bo",
+        "logo": "http://enka.mallframe.com/images/brands/690_low.jpg?1501857116",
+        "categories": ["Фуд-корт"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "INGLOT",
+        "logo": "http://enka.mallframe.com/images/brands/575_low.png?1427370672",
+        "categories": ["Парфюмерия и косметика"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "Bork",
+        "logo": "http://enka.mallframe.com/images/brands/394_low.png?1384869176",
+        "categories": ["Быт. техника и электроника", "Товары для дома"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "CK - Underwear",
+        "logo": "http://enka.mallframe.com/images/brands/387_low.png?1384523558",
+        "categories": ["Нижнее бельё"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "ГЕОКС",
+        "logo": "http://enka.mallframe.com/images/brands/707_low.jpg?1467879004",
+        "categories": ["Обувь"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Барбур",
+        "logo": "http://enka.mallframe.com/images/brands/709_low.jpg?1467879152",
+        "categories": ["Мужская одежда", "Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Опера",
+        "logo": "http://enka.mallframe.com/images/brands/711_low.jpg?1467879565",
+        "categories": ["Ювелирные изделия и часы"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Виллерой энд Бох",
+        "logo": "http://enka.mallframe.com/images/brands/712_low.png?1467878744",
+        "categories": ["Товары для дома"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Джо Малон",
+        "logo": "http://enka.mallframe.com/images/brands/710_low.jpg?1467879192",
+        "categories": ["Парфюмерия и косметика"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Бэба Кидз",
+        "logo": "http://enka.mallframe.com/images/brands/708_low.jpg?1467880004",
+        "categories": ["Детская одежда", "Детская обувь"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "LUSH",
+        "logo": "http://enka.mallframe.com/images/brands/189_low.jpg?1474550065",
+        "categories": ["Ванная и Сауна"],
+        "count": 3
+    }, {
+        "place": "Vernadskogo",
+        "name": "Guess",
+        "logo": "http://enka.mallframe.com/images/brands/574_low.png?1426492648",
+        "categories": ["Бижутерия", "Ювелирные изделия и часы", "Сумки и изделия из кожи", "Мужская одежда", "Женская одежда", "Нижнее бельё", "Обувь"],
+        "count": 3
+    }, {
+        "place": "Vernadskogo",
+        "name": "Tutti Frutti",
+        "logo": "http://enka.mallframe.com/images/brands/653_low.jpg?1463396648",
+        "categories": ["Фуд-корт"],
+        "count": 3
+    }, {
+        "place": "Vernadskogo",
+        "name": "Wafbusters",
+        "logo": "http://enka.mallframe.com/images/brands/742_low.png?1475674377",
+        "categories": ["Фуд-корт"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "iPro Service",
+        "logo": "http://enka.mallframe.com/images/brands/744_low.png?1475675419",
+        "categories": ["Химчистка - ателье - ремонт"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Mywalit",
+        "logo": "http://enka.mallframe.com/images/brands/373_low.png?1384788019",
+        "categories": ["Сумки и изделия из кожи"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Пончики",
+        "logo": "http://enka.mallframe.com/images/brands/743_low.jpg?1516094717",
+        "categories": ["Фуд-корт"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Street Beat",
+        "logo": "http://enka.mallframe.com/images/brands/751_low.png?1478519260",
+        "categories": ["Спорт"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Wolf Beauty Club",
+        "logo": "http://enka.mallframe.com/images/brands/758_low.png?1482749381",
+        "categories": ["Салон красоты"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Мельница",
+        "logo": "http://enka.mallframe.com/images/brands/759_low.png?1482749553",
+        "categories": ["Рестораны"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Cozy home store",
+        "logo": "http://enka.mallframe.com/images/brands/760_low.jpg?1505910637",
+        "categories": ["Товары для дома"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Альбионе",
+        "logo": "http://enka.mallframe.com/images/brands/112_low.png?1435042290",
+        "categories": ["Мужская одежда"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "NYX",
+        "logo": "http://enka.mallframe.com/images/brands/767_low.png?1485874812",
+        "categories": ["Парфюмерия и косметика"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "NY Pizza",
+        "logo": "http://enka.mallframe.com/images/brands/736_low.png?1490611305",
+        "categories": ["Фуд-корт"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "LEFUTUR",
+        "logo": "http://enka.mallframe.com/images/brands/862_low.jpg?1515594182",
+        "categories": ["Подарки и Сувениры"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "FiNN FLARE",
+        "logo": "http://enka.mallframe.com/images/brands/180_low.jpg?1490944490",
+        "categories": ["Мужская одежда", "Женская одежда"],
+        "count": 5
+    }, {
+        "place": "Vernadskogo",
+        "name": "Respect",
+        "logo": "http://enka.mallframe.com/images/brands/486_low.png?1493203541",
+        "categories": ["Обувь"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "Терволина",
+        "logo": "http://enka.mallframe.com/images/brands/110_low.png?1493203730",
+        "categories": ["Обувь"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "Айкрафт",
+        "logo": "http://enka.mallframe.com/images/brands/256_low.png?1406636798",
+        "categories": ["Оптика"],
+        "count": 9
+    }, {
+        "place": "Vernadskogo",
+        "name": "DIM",
+        "logo": "http://enka.mallframe.com/images/brands/591_low.png?1427368790",
+        "categories": ["Нижнее бельё"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "H&M",
+        "logo": "http://enka.mallframe.com/images/brands/785_low.png?1493203806",
+        "categories": ["Бижутерия", "Мужская одежда", "Женская одежда", "Обувь", "Детская одежда", "Детская обувь"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "Koton Denim",
+        "logo": "http://enka.mallframe.com/images/brands/784_low.png?1493203659",
+        "categories": ["Женская одежда", "Обувь", "Детская одежда"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Econika",
+        "logo": "http://enka.mallframe.com/images/brands/787_low.png?1493204254",
+        "categories": ["Обувь"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Шойберг",
+        "logo": "http://enka.mallframe.com/images/brands/788_low.png?1493217625",
+        "categories": ["Обувь"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Ralf Ringer",
+        "logo": "http://enka.mallframe.com/images/brands/789_low.png?1493204773",
+        "categories": ["Обувь"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "DC Store",
+        "logo": "http://enka.mallframe.com/images/brands/790_low.png?1493205065",
+        "categories": ["Спорт"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Milavitsa",
+        "logo": "http://enka.mallframe.com/images/brands/791_low.jpg?1494850272",
+        "categories": ["Нижнее бельё"],
+        "count": 3
+    }, {
+        "place": "Vernadskogo",
+        "name": "ALBA",
+        "logo": "http://enka.mallframe.com/images/brands/786_low.png?1493204178",
+        "categories": ["Обувь"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Coffee Room",
+        "logo": "http://enka.mallframe.com/images/brands/459_low.png?1434980890",
+        "categories": ["Кафе"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Anex Tour",
+        "logo": "http://enka.mallframe.com/images/brands/793_low.png?1493981929",
+        "categories": ["Агентства"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "Xiaomi",
+        "logo": "http://enka.mallframe.com/images/brands/812_low.png?1498050609",
+        "categories": ["Мобильная связь"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "Navigare",
+        "logo": "http://enka.mallframe.com/images/brands/818_low.jpg?1500021804",
+        "categories": ["Мужская одежда", "Женская одежда", "Спорт"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Macondo",
+        "logo": "http://enka.mallframe.com/images/brands/837_low.png?1507113977",
+        "categories": ["Подарки и Сувениры"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Маникюрный салон Лены Лениной",
+        "logo": "http://enka.mallframe.com/images/brands/360_low.jpg?1503580192",
+        "categories": ["Салон красоты"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "ЛЕОНАРДО: ХОББИ-ГИПЕРМАРКЕТ",
+        "logo": "http://enka.mallframe.com/images/brands/838_low.jpg?1509724708",
+        "categories": ["Подарки и Сувениры", "Книги - мультимедия- Подарки", "Обучение"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "TOP GUN",
+        "logo": "http://enka.mallframe.com/images/brands/794_low.jpg?1513596448",
+        "categories": ["Парикмахерская", "Уход за волосами"],
+        "count": 4
+    }, {
+        "place": "Vernadskogo",
+        "name": "ZASPORT",
+        "logo": "http://enka.mallframe.com/images/brands/855_low.jpg?1514372949",
+        "categories": ["Мужская одежда", "Женская одежда", "Спорт"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "PERSONA",
+        "logo": "http://enka.mallframe.com/images/brands/864_low.jpg?1516628689",
+        "categories": ["Сумки и изделия из кожи", "Женская одежда"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "Мульти - Мастер",
+        "logo": "http://enka.mallframe.com/images/brands/724_low.jpg?1473413317",
+        "categories": ["Химчистка - ателье - ремонт"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "GRECO",
+        "logo": "http://enka.mallframe.com/images/brands/870_low.jpg?1519828139",
+        "categories": ["Фуд-корт"],
+        "count": 2
+    }, {
+        "place": "Vernadskogo",
+        "name": "ETRE",
+        "logo": "http://enka.mallframe.com/images/brands/958_low.jpg?1523869765",
+        "categories": ["Accessories", "Оптика"],
+        "count": 1
+    }, {
+        "place": "Vernadskogo",
+        "name": "Билайн",
+        "logo": "http://enka.mallframe.com/images/brands/483_low.png?1406635309",
+        "categories": ["Мобильная связь"],
+        "count": 6
+    }, {
+        "place": "Vernadskogo",
+        "name": "Weekend Max Mara",
+        "logo": "http://enka.mallframe.com/images/brands/114_low.png?1438244895",
+        "categories": ["Сумки и изделия из кожи", "Женская одежда", "Обувь"],
+        "count": 3
+    }, {
+        "place": "Belyaevo",
+        "name": "Леди Коллекшн",
+        "logo": "http://enka.mallframe.com/images/brands/27_low.png?1384787541",
+        "categories": ["Бижутерия"],
+        "count": 3
+    }, {
+        "place": "Belyaevo",
+        "name": "Московское Время",
+        "logo": "http://enka.mallframe.com/images/brands/156_low.png?1397572120",
+        "categories": ["Ювелирные изделия и часы"],
+        "count": 2
+    }, {
+        "place": "Belyaevo",
+        "name": "Бронницкий Ювелир",
+        "logo": "http://enka.mallframe.com/images/brands/146_low.png?1426158393",
+        "categories": ["Ювелирные изделия и часы"],
+        "count": 3
+    }, {
+        "place": "Belyaevo",
+        "name": "Аптека",
+        "logo": "http://enka.mallframe.com/images/brands/335_low.jpg?1498662737",
+        "categories": ["Аптека"],
+        "count": 1
+    }, {
+        "place": "Belyaevo",
+        "name": "Кофе Хауз",
+        "logo": "http://enka.mallframe.com/images/brands/92_low.png?1426158564",
+        "categories": ["Кафе"],
+        "count": 2
+    }, {
+        "place": "Belyaevo",
+        "name": "Coral Travel",
+        "logo": "http://enka.mallframe.com/images/brands/399_low.png?1406635335",
+        "categories": ["Агентства"],
+        "count": 5
+    }, {
+        "place": "Belyaevo",
+        "name": "Франческо Маркони",
+        "logo": "http://enka.mallframe.com/images/brands/126_low.jpg?1527259727",
+        "categories": ["Сумки и изделия из кожи"],
+        "count": 4
+    }, {
+        "place": "Belyaevo",
+        "name": "Олимп",
+        "logo": "http://enka.mallframe.com/images/brands/152_low.png?1527083409",
+        "categories": ["Мужская одежда"],
+        "count": 2
+    }, {
+        "place": "Belyaevo",
+        "name": "Fissman",
+        "logo": "http://enka.mallframe.com/images/brands/361_low.jpg?1503565679",
+        "categories": ["Товары для дома"],
+        "count": 1
+    }, {
+        "place": "Belyaevo",
+        "name": "Samsung",
+        "logo": "http://enka.mallframe.com/images/brands/437_low.png?1422358858",
+        "categories": [],
+        "count": 8
+    }, {
+        "place": "Belyaevo",
+        "name": "Кредит Европа Банк",
+        "logo": "http://enka.mallframe.com/images/brands/199_low.png?1397572132",
+        "categories": ["Банковские услуги"],
+        "count": 1
+    }, {
+        "place": "Belyaevo",
+        "name": "Дом Быта",
+        "logo": "http://enka.mallframe.com/images/brands/489_low.jpg?1471943792",
+        "categories": ["Химчистка - ателье - ремонт"],
+        "count": 2
+    }, {
+        "place": "Belyaevo",
+        "name": "Кофе Тун",
+        "logo": "http://enka.mallframe.com/images/brands/490_low.png?1423473362",
+        "categories": ["Кафе"],
+        "count": 3
+    }, {
+        "place": "Belyaevo",
+        "name": "Золотая Стрекоза",
+        "logo": "http://enka.mallframe.com/images/brands/310_low.png?1423470281",
+        "categories": ["Нижнее бельё"],
+        "count": 3
+    }, {
+        "place": "Belyaevo",
+        "name": "ПЕРСОНА",
+        "logo": "http://enka.mallframe.com/images/brands/620_low.jpg?1523516943",
+        "categories": ["Салон красоты", "Парикмахерская"],
+        "count": 1
+    }, {
+        "place": "Belyaevo",
+        "name": "Vintage",
+        "logo": "http://enka.mallframe.com/images/brands/621_low.png?1434972293",
+        "categories": ["Кафе"],
+        "count": 1
+    }, {
+        "place": "Belyaevo",
+        "name": "Вареничная «Сметана»",
+        "logo": "http://enka.mallframe.com/images/brands/698_low.png?1465218692",
+        "categories": ["Фуд-корт"],
+        "count": 1
+    }, {
+        "place": "Belyaevo",
+        "name": "Профикер",
+        "logo": "http://enka.mallframe.com/images/brands/161_low.png?1384788259",
+        "categories": ["Парфюмерия и косметика"],
+        "count": 2
+    }, {
+        "place": "Belyaevo",
+        "name": "Mila Vitsa",
+        "logo": "http://enka.mallframe.com/images/brands/729_low.png?1474284361",
+        "categories": ["Нижнее бельё"],
+        "count": 3
+    }, {
+        "place": "Belyaevo",
+        "name": "DNS",
+        "logo": "http://enka.mallframe.com/images/brands/765_low.jpg?1484569455",
+        "categories": ["Быт. техника и электроника"],
+        "count": 2
+    }, {
+        "place": "Belyaevo",
+        "name": "Comedy Cafe",
+        "logo": "http://enka.mallframe.com/images/brands/768_low.png?1486370693",
+        "categories": ["Кафе"],
+        "count": 1
+    }, {
+        "place": "Belyaevo",
+        "name": "Подружка",
+        "logo": "http://enka.mallframe.com/images/brands/769_low.jpg?1486370764",
+        "categories": ["Парфюмерия и косметика"],
+        "count": 2
+    }, {
+        "place": "Belyaevo",
+        "name": "PURPUR",
+        "logo": "http://enka.mallframe.com/images/brands/869_low.jpg?1519650826",
+        "categories": ["Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Belyaevo",
+        "name": "Sunlight",
+        "logo": "http://enka.mallframe.com/images/brands/654_low.png?1443429577",
+        "categories": ["Ювелирные изделия и часы"],
+        "count": 4
+    }, {
+        "place": "Belyaevo",
+        "name": "Tele2",
+        "logo": "http://enka.mallframe.com/images/brands/679_low.png?1449665657",
+        "categories": ["Мобильная связь"],
+        "count": 6
+    }, {
+        "place": "Belyaevo",
+        "name": "Cozy Home",
+        "logo": "http://enka.mallframe.com/images/brands/760_low.jpg?1505910637",
+        "categories": ["Товары для дома"],
+        "count": 5
+    }, {
+        "place": "Belyaevo",
+        "name": "MOKIMO",
+        "logo": "http://enka.mallframe.com/images/brands/989_low.jpg?1529918937",
+        "categories": ["Детская одежда", "Childrens Apparel/Footwear"],
+        "count": 1
+    }, {
+        "place": "Leningradskiy",
+        "name": "Гармин",
+        "logo": "http://enka.mallframe.com/images/brands/186_low.png?1384787126",
+        "categories": ["Мобильная связь"],
+        "count": 1
+    }, {
+        "place": "Leningradskiy",
+        "name": "Чик-Чик",
+        "logo": "http://enka.mallframe.com/images/brands/171_low.png?1384786409",
+        "categories": ["Салон красоты"],
+        "count": 1
+    }, {
+        "place": "Leningradskiy",
+        "name": "Резервед",
+        "logo": "http://enka.mallframe.com/images/brands/375_low.png?1384788314",
+        "categories": ["Мужская одежда", "Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Leningradskiy",
+        "name": "Кропп Таун",
+        "logo": "http://enka.mallframe.com/images/brands/369_low.png?1384786522",
+        "categories": ["Мужская одежда", "Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Leningradskiy",
+        "name": "Мохито",
+        "logo": "http://enka.mallframe.com/images/brands/367_low.png?1397604503",
+        "categories": ["Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Leningradskiy",
+        "name": "Хаус",
+        "logo": "http://enka.mallframe.com/images/brands/370_low.jpg?1526387169",
+        "categories": ["Мужская одежда", "Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Leningradskiy",
+        "name": "Wok&Box",
+        "logo": "http://enka.mallframe.com/images/brands/495_low.png?1397539697",
+        "categories": ["Фуд-корт"],
+        "count": 1
+    }, {
+        "place": "Leningradskiy",
+        "name": "Кари Kids",
+        "logo": "http://enka.mallframe.com/images/brands/526_low.png?1441716236",
+        "categories": ["Детская одежда", "Детская обувь", "Игрушки"],
+        "count": 2
+    }, {
+        "place": "Leningradskiy",
+        "name": "Mario Mikke",
+        "logo": "http://enka.mallframe.com/images/brands/665_low.png?1444915362",
+        "categories": ["Обувь"],
+        "count": 1
+    }, {
+        "place": "Leningradskiy",
+        "name": "Laboratory",
+        "logo": "http://enka.mallframe.com/images/brands/666_low.png?1444915382",
+        "categories": ["Обувь"],
+        "count": 1
+    }, {
+        "place": "Leningradskiy",
+        "name": "Kari",
+        "logo": "http://enka.mallframe.com/images/brands/478_low.png?1406635393",
+        "categories": ["Женская одежда", "Обувь"],
+        "count": 5
+    }, {
+        "place": "Leningradskiy",
+        "name": "Страна ЕНОТиЯ",
+        "logo": "http://enka.mallframe.com/images/brands/739_low.png?1475502908",
+        "categories": ["Зоопарк"],
+        "count": 1
+    }, {
+        "place": "Leningradskiy",
+        "name": "Vitawin",
+        "logo": "http://enka.mallframe.com/images/brands/551_low.png?1435064753",
+        "categories": ["Продовольственные товары"],
+        "count": 2
+    }, {
+        "place": "Leningradskiy",
+        "name": "Waffy",
+        "logo": "http://enka.mallframe.com/images/brands/749_low.jpg?1513084114",
+        "categories": ["Фуд-корт"],
+        "count": 1
+    }, {
+        "place": "Leningradskiy",
+        "name": "ИГРАЛАЙФ",
+        "logo": "http://enka.mallframe.com/images/brands/413_low.png?1384869475",
+        "categories": ["Игровые Автоматы"],
+        "count": 1
+    }, {
+        "place": "Leningradskiy",
+        "name": "ФоВьет",
+        "logo": "http://enka.mallframe.com/images/brands/815_low.jpg?1498654669",
+        "categories": ["Фуд-корт"],
+        "count": 1
+    }, {
+        "place": "Leningradskiy",
+        "name": "Упаковка подарков",
+        "logo": "http://enka.mallframe.com/images/brands/853_low.jpg?1513084738",
+        "categories": ["Подарки и Сувениры"],
+        "count": 1
+    }, {
+        "place": "Leningradskiy",
+        "name": "СЕГВЕЙДРОМ",
+        "logo": "http://enka.mallframe.com/images/brands/859_low.jpg?1515502397",
+        "categories": ["Развлечения для детей"],
+        "count": 1
+    }, {
+        "place": "Leningradskiy",
+        "name": "MANTELLO 365",
+        "logo": "http://enka.mallframe.com/images/brands/865_low.jpg?1516792879",
+        "categories": ["Сумки и изделия из кожи", "Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Leningradskiy",
+        "name": "E - TABAK",
+        "logo": "http://enka.mallframe.com/images/brands/959_low.jpg?1523886608",
+        "categories": ["Tobacco & Alcoholic Beverages"],
+        "count": 1
+    }, {
+        "place": "Leningradskiy",
+        "name": "Чебуреки и Манты",
+        "logo": "http://enka.mallframe.com/images/brands/960_low.jpg?1523887552",
+        "categories": ["Кафе", "Фуд-корт"],
+        "count": 1
+    }, {
+        "place": "Leningradskiy",
+        "name": "DINO ZOO",
+        "logo": "http://enka.mallframe.com/images/brands/966_low.jpg?1524743154",
+        "categories": ["Товары для животных"],
+        "count": 1
+    }, {
+        "place": "Leningradskiy",
+        "name": "Другие Сладости",
+        "logo": "http://enka.mallframe.com/images/brands/972_low.jpg?1526302173",
+        "categories": ["питание"],
+        "count": 1
+    }, {
+        "place": "Leningradskiy",
+        "name": "ZAVINNI",
+        "logo": "http://enka.mallframe.com/images/brands/973_low.jpg?1526386221",
+        "categories": ["Accessories", "Мужская одежда", "Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Leningradskiy",
+        "name": "ROYAL COFFEE",
+        "logo": "http://enka.mallframe.com/images/brands/976_low.jpg?1526892875",
+        "categories": ["Кафе"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Мясо & Рыба",
+        "logo": "http://enka.mallframe.com/images/brands/694_low.png?1475498350",
+        "categories": ["Рестораны", "Кафе"],
+        "count": 2
+    }, {
+        "place": "Kashirskaya",
+        "name": "PHO",
+        "logo": "http://enka.mallframe.com/images/brands/987_low.jpg?1529419180",
+        "categories": ["Фуд-корт"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Спортмастер",
+        "logo": "http://enka.mallframe.com/images/brands/521_low.png?1406637762",
+        "categories": ["Sports Wear & Goods"],
+        "count": 2
+    }, {
+        "place": "Kashirskaya",
+        "name": "Дочки-Сыночки",
+        "logo": "http://enka.mallframe.com/images/brands/404_low.jpg?1473768915",
+        "categories": ["Childrens Apparel/Footwear"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Adidas",
+        "logo": "http://enka.mallframe.com/images/brands/8_low.jpg?1391738433",
+        "categories": ["Sports Wear & Goods"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Toy.ru",
+        "logo": "http://enka.mallframe.com/images/brands/734_low.png?1474284913",
+        "categories": ["Игрушки"],
+        "count": 2
+    }, {
+        "place": "Kashirskaya",
+        "name": "Веселая Затея",
+        "logo": "http://enka.mallframe.com/images/brands/830_low.jpg?1505121789",
+        "categories": ["Книги - мультимедия- Подарки"],
+        "count": 2
+    }, {
+        "place": "Kashirskaya",
+        "name": "LC WAIKIKI",
+        "logo": "http://enka.mallframe.com/images/brands/763_low.png?1482929599",
+        "categories": ["Unisex Fashion", "Мужская одежда", "Женская одежда"],
+        "count": 2
+    }, {
+        "place": "Kashirskaya",
+        "name": "Baon",
+        "logo": "http://enka.mallframe.com/images/brands/334_low.png?1440514137",
+        "categories": ["Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Keddo",
+        "logo": "http://enka.mallframe.com/images/brands/770_low.png?1486470424",
+        "categories": ["Обувь"],
+        "count": 2
+    }, {
+        "place": "Kashirskaya",
+        "name": "Van Cliff",
+        "logo": "http://enka.mallframe.com/images/brands/800_low.jpg?1496744117",
+        "categories": ["Lifestyle Apparel"],
+        "count": 2
+    }, {
+        "place": "Kashirskaya",
+        "name": "Ив Роше",
+        "logo": "http://enka.mallframe.com/images/brands/83_low.png?1427099957",
+        "categories": ["Beauty/Cosmetics"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Proficare",
+        "logo": "http://enka.mallframe.com/images/brands/161_low.png?1384788259",
+        "categories": ["Beauty/Cosmetics"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "4Hands",
+        "logo": "http://enka.mallframe.com/images/brands/727_low.jpg?1494941912",
+        "categories": ["Beauty/Cosmetics"],
+        "count": 2
+    }, {
+        "place": "Kashirskaya",
+        "name": "Хлеб да Выпечка",
+        "logo": "http://enka.mallframe.com/images/brands/755_low.jpg?1480513262",
+        "categories": ["питание"],
+        "count": 2
+    }, {
+        "place": "Kashirskaya",
+        "name": "Ноу-Хау",
+        "logo": "http://enka.mallframe.com/images/brands/524_low.png?1406636071",
+        "categories": ["Electronics", "Мобильная связь"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Ригла",
+        "logo": "http://enka.mallframe.com/images/brands/223_low.png?1413378141",
+        "categories": ["Аптека"],
+        "count": 3
+    }, {
+        "place": "Kashirskaya",
+        "name": "Бетховен",
+        "logo": "http://enka.mallframe.com/images/brands/614_low.png?1426490707",
+        "categories": ["Товары для животных"],
+        "count": 2
+    }, {
+        "place": "Kashirskaya",
+        "name": "Ашан",
+        "logo": "http://enka.mallframe.com/images/brands/617_low.png?1427696064",
+        "categories": ["Hypermarket"],
+        "count": 3
+    }, {
+        "place": "Kashirskaya",
+        "name": "Сваровски",
+        "logo": "http://enka.mallframe.com/images/brands/234_low.jpg?1383152447",
+        "categories": ["Ювелирные изделия и часы"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Eleganzza",
+        "logo": "http://enka.mallframe.com/images/brands/446_low.png?1396884799",
+        "categories": ["Retail"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "intimissimi",
+        "logo": "http://enka.mallframe.com/images/brands/510_low.png?1406533073",
+        "categories": ["Lingerie & Intimate Wear"],
+        "count": 4
+    }, {
+        "place": "Kashirskaya",
+        "name": "Gerry Weber",
+        "logo": "http://enka.mallframe.com/images/brands/852_low.jpg?1513003727",
+        "categories": ["Женская одежда"],
+        "count": 2
+    }, {
+        "place": "Kashirskaya",
+        "name": "GEOX",
+        "logo": "http://enka.mallframe.com/images/brands/707_low.jpg?1467879004",
+        "categories": ["Lifestyle Apparel", "Мужская одежда", "Женская одежда", "Обувь"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Albione",
+        "logo": "http://enka.mallframe.com/images/brands/112_low.png?1435042290",
+        "categories": ["Мужская одежда"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Эконика",
+        "logo": "http://enka.mallframe.com/images/brands/787_low.png?1493204254",
+        "categories": ["Обувь"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "udcкафе",
+        "logo": "http://enka.mallframe.com/images/brands/586_low.png?1427374346",
+        "categories": ["Рестораны", "Кафе"],
+        "count": 2
+    }, {
+        "place": "Kashirskaya",
+        "name": "MANGO",
+        "logo": "http://enka.mallframe.com/images/brands/273_low.jpg?1383152226",
+        "categories": ["Unisex Fashion"],
+        "count": 2
+    }, {
+        "place": "Kashirskaya",
+        "name": "Marc and Andre",
+        "logo": "http://enka.mallframe.com/images/brands/547_low.png?1423478618",
+        "categories": ["Lingerie & Intimate Wear", "Нижнее бельё"],
+        "count": 2
+    }, {
+        "place": "Kashirskaya",
+        "name": "WESTLAND",
+        "logo": "http://enka.mallframe.com/images/brands/307_low.png?1384788707",
+        "categories": ["Lifestyle Apparel", "Мужская одежда", "Женская одежда", "Unisex Fashion"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Мастер Минутка",
+        "logo": "http://enka.mallframe.com/images/brands/878_low.png?1522391216",
+        "categories": ["Услуги"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Natalie Tours",
+        "logo": "http://enka.mallframe.com/images/brands/879_low.png?1522391321",
+        "categories": ["Услуги"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Конфаэль",
+        "logo": "http://enka.mallframe.com/images/brands/880_low.png?1522391361",
+        "categories": ["питание"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Унция",
+        "logo": "http://enka.mallframe.com/images/brands/882_low.png?1522391541",
+        "categories": ["Кофе и Чай"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Simple Wine",
+        "logo": "http://enka.mallframe.com/images/brands/883_low.png?1522392189",
+        "categories": ["Tobacco & Alcoholic Beverages"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Счастливый Взгляд",
+        "logo": "http://enka.mallframe.com/images/brands/884_low.png?1522392227",
+        "categories": ["Оптика"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Estia Home",
+        "logo": "http://enka.mallframe.com/images/brands/885_low.jpg?1529485542",
+        "categories": ["Home Goods/Kitchenware"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Miniso",
+        "logo": "http://enka.mallframe.com/images/brands/886_low.png?1522394705",
+        "categories": ["Accessories"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Zest Café",
+        "logo": "http://enka.mallframe.com/images/brands/887_low.png?1522394822",
+        "categories": ["Рестораны", "Кафе"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Mandarina Duck",
+        "logo": "http://enka.mallframe.com/images/brands/889_low.png?1522394985",
+        "categories": ["Accessories"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Московский Ювелирный Завод",
+        "logo": "http://enka.mallframe.com/images/brands/890_low.jpg?1529483310",
+        "categories": ["Ювелирные изделия и часы"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "You Wanna",
+        "logo": "http://enka.mallframe.com/images/brands/892_low.png?1522395199",
+        "categories": ["Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Kanzler",
+        "logo": "http://enka.mallframe.com/images/brands/894_low.png?1522395402",
+        "categories": ["Мужская одежда"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Roy Robson",
+        "logo": "http://enka.mallframe.com/images/brands/895_low.png?1522395658",
+        "categories": ["Мужская одежда"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "MODI",
+        "logo": "http://enka.mallframe.com/images/brands/896_low.png?1522395766",
+        "categories": ["Home Goods/Kitchenware"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Climber",
+        "logo": "http://enka.mallframe.com/images/brands/897_low.png?1522395882",
+        "categories": ["Мужская одежда"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Uniqlo",
+        "logo": "http://enka.mallframe.com/images/brands/898_low.png?1522395949",
+        "categories": ["Unisex Fashion"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Dry&Go",
+        "logo": "http://enka.mallframe.com/images/brands/899_low.png?1522396037",
+        "categories": ["Beauty/Cosmetics"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Vans",
+        "logo": "http://enka.mallframe.com/images/brands/902_low.png?1522396371",
+        "categories": ["Retail"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Serginnetti",
+        "logo": "http://enka.mallframe.com/images/brands/903_low.png?1522396402",
+        "categories": ["Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "El Tempo",
+        "logo": "http://enka.mallframe.com/images/brands/904_low.png?1522396433",
+        "categories": ["Обувь"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Mario Berluchi",
+        "logo": "http://enka.mallframe.com/images/brands/905_low.png?1522396501",
+        "categories": ["Обувь"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "5 Карманов",
+        "logo": "http://enka.mallframe.com/images/brands/907_low.jpg?1527583402",
+        "categories": ["Lifestyle Apparel"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "UNO",
+        "logo": "http://enka.mallframe.com/images/brands/908_low.png?1522396840",
+        "categories": ["Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "The Athlete’s Foot",
+        "logo": "http://enka.mallframe.com/images/brands/909_low.png?1522396955",
+        "categories": ["Sports Wear & Goods"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Anna Verdi",
+        "logo": "http://enka.mallframe.com/images/brands/910_low.jpg?1529481752",
+        "categories": ["Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Marchelas",
+        "logo": "http://enka.mallframe.com/images/brands/911_low.png?1522397049",
+        "categories": ["Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Consowear",
+        "logo": "http://enka.mallframe.com/images/brands/912_low.png?1522397175",
+        "categories": ["Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Velvet",
+        "logo": "http://enka.mallframe.com/images/brands/913_low.png?1522397221",
+        "categories": ["Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "D-Style",
+        "logo": "http://enka.mallframe.com/images/brands/914_low.png?1522398432",
+        "categories": ["Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Lime",
+        "logo": "http://enka.mallframe.com/images/brands/915_low.png?1522398462",
+        "categories": ["Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Остин",
+        "logo": "http://enka.mallframe.com/images/brands/357_low.png?1413456692",
+        "categories": ["Несъедобная пища"],
+        "count": 3
+    }, {
+        "place": "Kashirskaya",
+        "name": "Снежная Королева",
+        "logo": "http://enka.mallframe.com/images/brands/917_low.png?1522400086",
+        "categories": ["Unisex Fashion"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Kapika",
+        "logo": "http://enka.mallframe.com/images/brands/920_low.jpg?1529486957",
+        "categories": ["Childrens Apparel/Footwear"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Vazhnye Ludi",
+        "logo": "http://enka.mallframe.com/images/brands/921_low.jpg?1529918622",
+        "categories": ["Beauty/Cosmetics"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Mr. Сумкин",
+        "logo": "http://enka.mallframe.com/images/brands/19_low.png?1433923193",
+        "categories": ["Accessories"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Helly Hansen",
+        "logo": "http://enka.mallframe.com/images/brands/923_low.png?1522400317",
+        "categories": ["Sports Wear & Goods"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Puma",
+        "logo": "http://enka.mallframe.com/images/brands/924_low.png?1522400371",
+        "categories": ["Sports Wear & Goods"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Under Armour",
+        "logo": "http://enka.mallframe.com/images/brands/925_low.jpg?1527777952",
+        "categories": ["Sports Wear & Goods", "Спорт"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Chitai Gorod",
+        "logo": "http://enka.mallframe.com/images/brands/926_low.png?1522400550",
+        "categories": ["Несъедобная пища"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Атмосфера",
+        "logo": "http://enka.mallframe.com/images/brands/927_low.png?1522400595",
+        "categories": ["Развлечения для детей"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Vokmania",
+        "logo": "http://enka.mallframe.com/images/brands/931_low.png?1522400790",
+        "categories": ["питание"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Gvido jelato",
+        "logo": "http://enka.mallframe.com/images/brands/933_low.png?1522400870",
+        "categories": ["Рестораны"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Fishman",
+        "logo": "http://enka.mallframe.com/images/brands/934_low.png?1522400917",
+        "categories": ["питание"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Ploveberry",
+        "logo": "http://enka.mallframe.com/images/brands/935_low.png?1522400940",
+        "categories": ["питание"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Чайхона №1",
+        "logo": "http://enka.mallframe.com/images/brands/940_low.jpg?1527688756",
+        "categories": ["питание", "Рестораны"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Kinomax",
+        "logo": "http://enka.mallframe.com/images/brands/942_low.png?1527147490",
+        "categories": ["Кино"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Burger&Pizzetta",
+        "logo": "http://enka.mallframe.com/images/brands/938_low.png?1522401023",
+        "categories": ["Рестораны", "Кафе"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "TUI",
+        "logo": "http://enka.mallframe.com/images/brands/930_low.png?1522400748",
+        "categories": ["Услуги"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Пират Мармелад",
+        "logo": "http://enka.mallframe.com/images/brands/944_low.png?1523271354",
+        "categories": ["питание"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Швили",
+        "logo": "http://enka.mallframe.com/images/brands/946_low.jpg?1529480405",
+        "categories": ["Рестораны", "Кафе"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Mini Moda",
+        "logo": "http://enka.mallframe.com/images/brands/948_low.png?1523271447",
+        "categories": ["Childrens Apparel/Footwear"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Kotofey",
+        "logo": "http://enka.mallframe.com/images/brands/949_low.png?1523271470",
+        "categories": ["Childrens Apparel/Footwear"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Сюрприз",
+        "logo": "http://enka.mallframe.com/images/brands/950_low.png?1523271504",
+        "categories": ["Книги - мультимедия- Подарки"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Etam",
+        "logo": "http://enka.mallframe.com/images/brands/955_low.png?1523271654",
+        "categories": ["Lingerie & Intimate Wear"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Ваби Саби",
+        "logo": "http://enka.mallframe.com/images/brands/943_low.png?1527085706",
+        "categories": ["Рестораны"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Неофарм",
+        "logo": "http://enka.mallframe.com/images/brands/980_low.png?1527085351",
+        "categories": ["Аптека"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "паста песто",
+        "logo": "http://enka.mallframe.com/images/brands/983_low.png?1527146989",
+        "categories": ["Рестораны"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "COFIX",
+        "logo": "http://enka.mallframe.com/images/brands/968_low.jpg?1524840501",
+        "categories": ["Кафе", "Фуд-корт"],
+        "count": 2
+    }, {
+        "place": "Kashirskaya",
+        "name": "М.Видео",
+        "logo": "http://enka.mallframe.com/images/brands/986_low.png?1527842517",
+        "categories": ["Мобильная связь", "Быт. техника и электроника", "Electronics"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "Funky World",
+        "logo": "http://enka.mallframe.com/images/brands/928_low.png?1522400649",
+        "categories": ["Развлечения для детей"],
+        "count": 1
+    }, {
+        "place": "Kashirskaya",
+        "name": "WOW BROW",
+        "logo": "http://enka.mallframe.com/images/brands/988_low.jpg?1529420743",
+        "categories": ["Маникюр&Педикюр", "Уход за волосами", "Салон красоты"],
+        "count": 1
+    }, {
+        "place": "Marina Roscha",
+        "name": "Микс",
+        "logo": "http://enka.mallframe.com/images/brands/135_low.png?1413525212",
+        "categories": ["Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Marina Roscha",
+        "name": "Барбекю",
+        "logo": "http://enka.mallframe.com/images/brands/173_low.jpg?1464795464",
+        "categories": ["Фуд-корт"],
+        "count": 1
+    }, {
+        "place": "Marina Roscha",
+        "name": "Педикюр EXPRESS ME",
+        "logo": "http://enka.mallframe.com/images/brands/460_low.png?1389633587",
+        "categories": ["Салон красоты"],
+        "count": 1
+    }, {
+        "place": "Marina Roscha",
+        "name": "Дефиле",
+        "logo": "http://enka.mallframe.com/images/brands/131_low.png?1384786544",
+        "categories": ["Сумки и изделия из кожи", "Обувь"],
+        "count": 1
+    }, {
+        "place": "Marina Roscha",
+        "name": "Manikur Express",
+        "logo": "http://enka.mallframe.com/images/brands/428_low.png?1384869703",
+        "categories": ["Салон красоты", "Маникюр&Педикюр"],
+        "count": 1
+    }, {
+        "place": "Marina Roscha",
+        "name": "Инсити",
+        "logo": "http://enka.mallframe.com/images/brands/206_low.jpg?1503564978",
+        "categories": ["Женская одежда"],
+        "count": 2
+    }, {
+        "place": "Marina Roscha",
+        "name": "Джиованни Джентиле",
+        "logo": "http://enka.mallframe.com/images/brands/115_low.png?1434981183",
+        "categories": ["Мужская одежда"],
+        "count": 1
+    }, {
+        "place": "Marina Roscha",
+        "name": "Шанталь",
+        "logo": "http://enka.mallframe.com/images/brands/52_low.png?1387897110",
+        "categories": ["Нижнее бельё"],
+        "count": 1
+    }, {
+        "place": "Marina Roscha",
+        "name": "Сан Лайн",
+        "logo": "http://enka.mallframe.com/images/brands/233_low.png?1389633461",
+        "categories": ["Салон красоты"],
+        "count": 1
+    }, {
+        "place": "Marina Roscha",
+        "name": "Art Diamond",
+        "logo": "http://enka.mallframe.com/images/brands/388_low.png?1384869069",
+        "categories": ["Подарки и Сувениры"],
+        "count": 1
+    }, {
+        "place": "Marina Roscha",
+        "name": "Банкомат/Платежный(Этаж 1 - локатор 2)",
+        "logo": "http://enka.mallframe.com/images/brands/501_low.png?1435065336",
+        "categories": ["Банкомат / Платежный Автомат"],
+        "count": 1
+    }, {
+        "place": "Marina Roscha",
+        "name": "Банкомат / Платежный Автомат (Этаж 2)",
+        "logo": "http://enka.mallframe.com/images/brands/473_low.png?1435065285",
+        "categories": ["Банкомат / Платежный Автомат"],
+        "count": 2
+    }, {
+        "place": "Marina Roscha",
+        "name": "Банкомат/Платежный(Этаж 1 - локатор 1)",
+        "logo": "http://enka.mallframe.com/images/brands/502_low.png?1435065328",
+        "categories": ["Банкомат / Платежный Автомат"],
+        "count": 1
+    }, {
+        "place": "Marina Roscha",
+        "name": "Krispy Kreme",
+        "logo": "http://enka.mallframe.com/images/brands/503_low.png?1400589383",
+        "categories": ["Кафе"],
+        "count": 1
+    }, {
+        "place": "Marina Roscha",
+        "name": "Ювелирный Магазин",
+        "logo": "http://enka.mallframe.com/images/brands/268_low.png?1460727654",
+        "categories": ["Ювелирные изделия и часы"],
+        "count": 1
+    }, {
+        "place": "Marina Roscha",
+        "name": "АДАМАС",
+        "logo": "http://enka.mallframe.com/images/brands/511_low.png?1406533390",
+        "categories": ["Подарки и Сувениры"],
+        "count": 3
+    }, {
+        "place": "Marina Roscha",
+        "name": "Valtera",
+        "logo": "http://enka.mallframe.com/images/brands/85_low.png?1384788613",
+        "categories": ["Ювелирные изделия и часы"],
+        "count": 2
+    }, {
+        "place": "Marina Roscha",
+        "name": "Мастер Обувь&ключ",
+        "logo": "http://enka.mallframe.com/images/brands/636_low.png?1441711556",
+        "categories": ["Химчистка - ателье - ремонт"],
+        "count": 1
+    }, {
+        "place": "Marina Roscha",
+        "name": "Тони Перотти",
+        "logo": "http://enka.mallframe.com/images/brands/300_low.png?1384788556",
+        "categories": ["Сумки и изделия из кожи"],
+        "count": 2
+    }, {
+        "place": "Marina Roscha",
+        "name": "Вива Ла Вита",
+        "logo": "http://enka.mallframe.com/images/brands/305_low.png?1398978851",
+        "categories": ["Мужская одежда", "Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Marina Roscha",
+        "name": "Ле'Мурр",
+        "logo": "http://enka.mallframe.com/images/brands/813_low.jpg?1498652244",
+        "categories": ["Товары для животных"],
+        "count": 1
+    }, {
+        "place": "Marina Roscha",
+        "name": "КВЕСТРУМ.РФ",
+        "logo": "http://enka.mallframe.com/images/brands/867_low.jpg?1518529934",
+        "categories": ["Развлечения для детей"],
+        "count": 1
+    }, {
+        "place": "Marina Roscha",
+        "name": "OLDBOY Barbershop",
+        "logo": "http://enka.mallframe.com/images/brands/961_low.jpg?1524581242",
+        "categories": ["Парикмахерская"],
+        "count": 1
+    }, {
+        "place": "Marina Roscha",
+        "name": "ГУДОКСИТИ",
+        "logo": "http://enka.mallframe.com/images/brands/962_low.jpg?1524644629",
+        "categories": ["Развлечения для детей"],
+        "count": 1
+    }, {
+        "place": "Marina Roscha",
+        "name": "ROLLS",
+        "logo": "http://enka.mallframe.com/images/brands/963_low.png?1524646751",
+        "categories": ["Фуд-корт"],
+        "count": 1
+    }, {
+        "place": "Marina Roscha",
+        "name": "ЧАЙБУРГ",
+        "logo": "http://enka.mallframe.com/images/brands/964_low.jpg?1524655326",
+        "categories": ["Кофе и Чай"],
+        "count": 1
+    }, {
+        "place": "Marina Roscha",
+        "name": "UDON & SOBA",
+        "logo": "http://enka.mallframe.com/images/brands/965_low.png?1524659598",
+        "categories": ["Фуд-корт"],
+        "count": 1
+    }, {
+        "place": "Marina Roscha",
+        "name": "ALIX STORY",
+        "logo": "http://enka.mallframe.com/images/brands/970_low.jpg?1525686807",
+        "categories": ["Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Orehovo",
+        "name": "Эльдорадо",
+        "logo": "http://enka.mallframe.com/images/brands/254_low.png?1384786726",
+        "categories": ["Супермаркет", "Мобильная связь", "Быт. техника и электроника"],
+        "count": 3
+    }, {
+        "place": "Orehovo",
+        "name": "Dochki Synochki",
+        "logo": "http://enka.mallframe.com/images/brands/404_low.jpg?1473768915",
+        "categories": [],
+        "count": 1
+    }, {
+        "place": "Orehovo",
+        "name": "Банкомат / Платежный Автомат (Этаж -1)",
+        "logo": "http://enka.mallframe.com/images/brands/475_low.png?1435065186",
+        "categories": ["Банкомат / Платежный Автомат"],
+        "count": 2
+    }, {
+        "place": "Orehovo",
+        "name": "Додо Пицца",
+        "logo": "http://enka.mallframe.com/images/brands/860_low.jpg?1515505007",
+        "categories": ["Фуд-корт"],
+        "count": 1
+    }, {
+        "place": "Orehovo",
+        "name": "Суши Маркет",
+        "logo": "http://enka.mallframe.com/images/brands/816_low.jpg?1498663999",
+        "categories": ["Фуд-корт"],
+        "count": 2
+    }, {
+        "place": "Orehovo",
+        "name": "Пасадоффест",
+        "logo": "http://enka.mallframe.com/images/brands/339_low.png?1426163513",
+        "categories": ["Рестораны"],
+        "count": 1
+    }, {
+        "place": "Orehovo",
+        "name": "ГОРЗДРАВ",
+        "logo": "http://enka.mallframe.com/images/brands/632_low.png?1435148449",
+        "categories": ["Аптека"],
+        "count": 3
+    }, {
+        "place": "Orehovo",
+        "name": "Детский Центр",
+        "logo": "http://enka.mallframe.com/images/brands/633_low.png?1435148594",
+        "categories": ["Игровые Автоматы"],
+        "count": 1
+    }, {
+        "place": "Orehovo",
+        "name": "Sandalia",
+        "logo": "http://enka.mallframe.com/images/brands/634_low.png?1435148748",
+        "categories": ["Обувь"],
+        "count": 1
+    }, {
+        "place": "Orehovo",
+        "name": "Fashion House",
+        "logo": "http://enka.mallframe.com/images/brands/680_low.png?1449665870",
+        "categories": ["Мужская одежда", "Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Orehovo",
+        "name": "Tea Funny",
+        "logo": "http://enka.mallframe.com/images/brands/834_low.jpg?1505300937",
+        "categories": ["Кофе и Чай"],
+        "count": 1
+    }, {
+        "place": "Padolsk",
+        "name": "Кантата",
+        "logo": "http://enka.mallframe.com/images/brands/500_low.jpg?1409054044",
+        "categories": ["Кофе и Чай"],
+        "count": 2
+    }, {
+        "place": "Padolsk",
+        "name": "Qiwi",
+        "logo": "http://enka.mallframe.com/images/brands/464_low.png?1390614533",
+        "categories": ["Банкомат / Платежный Автомат"],
+        "count": 1
+    }, {
+        "place": "Padolsk",
+        "name": "Rosbank",
+        "logo": "http://enka.mallframe.com/images/brands/467_low.png?1398978817",
+        "categories": ["Банковские услуги"],
+        "count": 1
+    }, {
+        "place": "Padolsk",
+        "name": "Eleksnet",
+        "logo": "http://enka.mallframe.com/images/brands/407_low.png?1384869368",
+        "categories": [],
+        "count": 1
+    }, {
+        "place": "Padolsk",
+        "name": "Твоё",
+        "logo": "http://enka.mallframe.com/images/brands/301_low.png?1398978837",
+        "categories": ["Мужская одежда", "Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Padolsk",
+        "name": "Честер",
+        "logo": "http://enka.mallframe.com/images/brands/119_low.jpg?1409053926",
+        "categories": ["Обувь"],
+        "count": 1
+    }, {
+        "place": "Padolsk",
+        "name": "Вестланд",
+        "logo": "http://enka.mallframe.com/images/brands/307_low.png?1384788707",
+        "categories": ["Мужская одежда", "Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Padolsk",
+        "name": "Рэдмонд",
+        "logo": "http://enka.mallframe.com/images/brands/185_low.png?1396528519",
+        "categories": ["Сумки и изделия из кожи"],
+        "count": 1
+    }, {
+        "place": "Padolsk",
+        "name": "Befree",
+        "logo": "http://enka.mallframe.com/images/brands/545_low.png?1423474004",
+        "categories": ["Женская одежда", "Нижнее бельё"],
+        "count": 1
+    }, {
+        "place": "Padolsk",
+        "name": "SELA",
+        "logo": "http://enka.mallframe.com/images/brands/642_low.png?1440759712",
+        "categories": ["Мужская одежда", "Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Padolsk",
+        "name": "Красно Золото",
+        "logo": "http://enka.mallframe.com/images/brands/733_low.jpg?1503566847",
+        "categories": ["Ювелирные изделия и часы"],
+        "count": 3
+    }, {
+        "place": "Padolsk",
+        "name": "Салон Часов",
+        "logo": "http://enka.mallframe.com/images/brands/732_low.png?1474284474",
+        "categories": ["Ювелирные изделия и часы"],
+        "count": 1
+    }, {
+        "place": "Padolsk",
+        "name": "Fabiani",
+        "logo": "http://enka.mallframe.com/images/brands/720_low.png?1486470481",
+        "categories": ["Мужская одежда"],
+        "count": 1
+    }, {
+        "place": "Padolsk",
+        "name": "БИМИ",
+        "logo": "http://enka.mallframe.com/images/brands/771_low.png?1486471453",
+        "categories": ["Подарки и Сувениры"],
+        "count": 1
+    }, {
+        "place": "Padolsk",
+        "name": "Гриль Хаус",
+        "logo": "http://enka.mallframe.com/images/brands/773_low.png?1486542697",
+        "categories": ["Рестораны"],
+        "count": 1
+    }, {
+        "place": "Padolsk",
+        "name": "LITTLE STAR",
+        "logo": "http://enka.mallframe.com/images/brands/873_low.jpg?1521112134",
+        "categories": ["Детская одежда"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "Дольче Вита",
+        "logo": "http://enka.mallframe.com/images/brands/117_low.png?1406635911",
+        "categories": ["Сумки и изделия из кожи"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "Лента",
+        "logo": "http://enka.mallframe.com/images/brands/517_low.png?1406635252",
+        "categories": ["Продовольственные товары", "Супермаркет"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "Четыре Лапы",
+        "logo": "http://enka.mallframe.com/images/brands/520_low.png?1406635212",
+        "categories": ["Товары для животных"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "Кораблик",
+        "logo": "http://enka.mallframe.com/images/brands/522_low.png?1406635664",
+        "categories": ["Детская одежда", "Детская обувь", "Игрушки"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "АЛЕФ",
+        "logo": "http://enka.mallframe.com/images/brands/529_low.png?1406638417",
+        "categories": ["Сумки и изделия из кожи", "Женская одежда", "Мужская одежда"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "Togas",
+        "logo": "http://enka.mallframe.com/images/brands/142_low.png?1413378191",
+        "categories": ["Товары для дома"],
+        "count": 2
+    }, {
+        "place": "Sergiev Posad",
+        "name": "БРАВО",
+        "logo": "http://enka.mallframe.com/images/brands/530_low.jpg?1471944548",
+        "categories": ["Химчистка - ателье - ремонт"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "Золотой Лев",
+        "logo": "http://enka.mallframe.com/images/brands/527_low.png?1413379475",
+        "categories": ["Ювелирные изделия и часы", "Подарки и Сувениры"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "Мега Час",
+        "logo": "http://enka.mallframe.com/images/brands/533_low.png?1408537290",
+        "categories": ["Ювелирные изделия и часы"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "ЛЕГКИЙ ШАГ",
+        "logo": "http://enka.mallframe.com/images/brands/536_low.jpg?1524558743",
+        "categories": ["Обувь"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "Yogurt Island",
+        "logo": "http://enka.mallframe.com/images/brands/538_low.png?1410767528",
+        "categories": ["Фуд-корт"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "АЛФАВИТ",
+        "logo": "http://enka.mallframe.com/images/brands/537_low.png?1410789745",
+        "categories": ["Обувь"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "Из Углича",
+        "logo": "http://enka.mallframe.com/images/brands/618_low.png?1428566612",
+        "categories": ["Продовольственные товары"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "Black&White",
+        "logo": "http://enka.mallframe.com/images/brands/619_low.png?1428566682",
+        "categories": ["Нижнее бельё"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "Стиляга",
+        "logo": "http://enka.mallframe.com/images/brands/548_low.png?1424789777",
+        "categories": ["Мужская одежда", "Женская одежда", "Сумки и изделия из кожи"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "ПАРАД",
+        "logo": "http://enka.mallframe.com/images/brands/523_low.png?1413549832",
+        "categories": ["Детская обувь", "Детская одежда"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "СТИЛЯGА KIDS",
+        "logo": "http://enka.mallframe.com/images/brands/664_low.png?1444143824",
+        "categories": ["Детская одежда", "Детская обувь"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "Best Case",
+        "logo": "http://enka.mallframe.com/images/brands/687_low.png?1454574290",
+        "categories": ["Подарки и Сувениры"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "Кафе Монтана",
+        "logo": "http://enka.mallframe.com/images/brands/688_low.jpg?1471943489",
+        "categories": ["Кафе", "Рестораны", "Кофе и Чай"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "Fabian",
+        "logo": "http://enka.mallframe.com/images/brands/720_low.png?1486470481",
+        "categories": ["Мужская одежда"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "Antiga",
+        "logo": "http://enka.mallframe.com/images/brands/719_low.png?1472643492",
+        "categories": ["Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "Bagamma",
+        "logo": "http://enka.mallframe.com/images/brands/718_low.png?1472643416",
+        "categories": ["Сумки и изделия из кожи"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "Skylink",
+        "logo": "http://enka.mallframe.com/images/brands/721_low.png?1472643532",
+        "categories": ["Мобильная связь"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "Rieker",
+        "logo": "http://enka.mallframe.com/images/brands/811_low.jpg?1497358230",
+        "categories": ["Обувь"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "RollBerry",
+        "logo": "http://enka.mallframe.com/images/brands/723_low.png?1472646797",
+        "categories": ["Фуд-корт"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "iPochino",
+        "logo": "http://enka.mallframe.com/images/brands/761_low.jpg?1482751223",
+        "categories": ["Мобильная связь"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "Lova",
+        "logo": "http://enka.mallframe.com/images/brands/766_low.jpg?1484918102",
+        "categories": ["Бижутерия", "Подарки и Сувениры"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "Solo",
+        "logo": "http://enka.mallframe.com/images/brands/801_low.jpg?1496744887",
+        "categories": ["Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "PRIMAVERA",
+        "logo": "http://enka.mallframe.com/images/brands/802_low.jpg?1496746321",
+        "categories": ["Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "BRAND HOUSE",
+        "logo": "http://enka.mallframe.com/images/brands/803_low.jpg?1496746561",
+        "categories": ["Нижнее бельё"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "Lady Collection",
+        "logo": "http://enka.mallframe.com/images/brands/27_low.png?1384787541",
+        "categories": ["Бижутерия"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "АДЛ",
+        "logo": "http://enka.mallframe.com/images/brands/804_low.jpg?1496747603",
+        "categories": ["Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "Ёж и Нити-Нити",
+        "logo": "http://enka.mallframe.com/images/brands/805_low.jpg?1496748318",
+        "categories": ["Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "MANGET.NET",
+        "logo": "http://enka.mallframe.com/images/brands/806_low.jpg?1496750044",
+        "categories": ["Мужская одежда"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "Паря Пяток",
+        "logo": "http://enka.mallframe.com/images/brands/807_low.jpg?1496750340",
+        "categories": ["Детская обувь"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "LA FRESH",
+        "logo": "http://enka.mallframe.com/images/brands/808_low.jpg?1496752188",
+        "categories": ["Фуд-корт"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "Космик Кино",
+        "logo": "http://enka.mallframe.com/images/brands/809_low.jpg?1497358681",
+        "categories": ["Кино"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "BOTANICA",
+        "logo": "http://enka.mallframe.com/images/brands/810_low.jpg?1497357282",
+        "categories": ["Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "MARK FORMELLE",
+        "logo": "http://enka.mallframe.com/images/brands/831_low.jpg?1505141084",
+        "categories": ["Мужская одежда", "Женская одежда", "Детская одежда"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "Dolce Vita Travel",
+        "logo": "http://enka.mallframe.com/images/brands/877_low.jpg?1521638559",
+        "categories": ["Сумки и изделия из кожи"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "ВАШЕ ЗОЛОТО",
+        "logo": "http://enka.mallframe.com/images/brands/328_low.jpg?1521641081",
+        "categories": ["Ювелирные изделия и часы"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "LEXMER",
+        "logo": "http://enka.mallframe.com/images/brands/977_low.jpg?1526905421",
+        "categories": ["Мужская одежда"],
+        "count": 1
+    }, {
+        "place": "Sergiev Posad",
+        "name": "НЕВИДАЛИЯ",
+        "logo": "http://enka.mallframe.com/images/brands/978_low.jpg?1526910726",
+        "categories": ["Развлечения для детей"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Expert Professional",
+        "logo": "http://enka.mallframe.com/images/brands/528_low.png?1406638066",
+        "categories": ["Салон красоты", "Парфюмерия и косметика"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Calvin Klein Jeans",
+        "logo": "http://enka.mallframe.com/images/brands/33_low.jpg?1491986561",
+        "categories": ["Мужская одежда", "Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "GAASTRA",
+        "logo": "http://enka.mallframe.com/images/brands/346_low.png?1384787061",
+        "categories": ["Мужская одежда", "Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "НОУ ХАУ",
+        "logo": "http://enka.mallframe.com/images/brands/524_low.png?1406636071",
+        "categories": ["Мобильная связь", "Быт. техника и электроника"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Nike",
+        "logo": "http://enka.mallframe.com/images/brands/101_low.jpg?1449832672",
+        "categories": ["Спорт"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "ESTELLE A-STORE",
+        "logo": "http://enka.mallframe.com/images/brands/651_low.jpg?1476106793",
+        "categories": ["Нижнее бельё"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Hamleys/Lego",
+        "logo": "http://enka.mallframe.com/images/brands/104_low.png?1384787601",
+        "categories": ["Игрушки"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Макдоналдс®",
+        "logo": "http://enka.mallframe.com/images/brands/9_low.png?1428246443",
+        "categories": ["Фуд-корт", "Рестораны"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Pizza Hut",
+        "logo": "http://enka.mallframe.com/images/brands/287_low.jpg?1383152395",
+        "categories": ["Рестораны", "Фуд-корт"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Artbox",
+        "logo": "http://enka.mallframe.com/images/brands/550_low.png?1435064939",
+        "categories": ["Подарки и Сувениры"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Tez Tour",
+        "logo": "http://enka.mallframe.com/images/brands/553_low.png?1427100096",
+        "categories": ["Агентства"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Кузина",
+        "logo": "http://enka.mallframe.com/images/brands/557_low.jpg?1473944098",
+        "categories": ["Рестораны", "Фуд-корт"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Michael Kors",
+        "logo": "http://enka.mallframe.com/images/brands/564_low.jpg?1471872128",
+        "categories": ["Сумки и изделия из кожи", "Бижутерия", "Ювелирные изделия и часы", "Обувь"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Gerard Darel",
+        "logo": "http://enka.mallframe.com/images/brands/565_low.png?1427369666",
+        "categories": ["Женская одежда", "Бижутерия", "Сумки и изделия из кожи", "Обувь"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Sandro",
+        "logo": "http://enka.mallframe.com/images/brands/566_low.png?1427373935",
+        "categories": ["Женская одежда", "Сумки и изделия из кожи", "Мужская одежда", "Обувь"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Maje",
+        "logo": "http://enka.mallframe.com/images/brands/567_low.png?1427371347",
+        "categories": ["Женская одежда", "Бижутерия", "Сумки и изделия из кожи", "Подарки и Сувениры", "Обувь"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Max&Co",
+        "logo": "http://enka.mallframe.com/images/brands/569_low.png?1427371564",
+        "categories": ["Бижутерия", "Сумки и изделия из кожи", "Женская одежда", "Обувь"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Le Creuset",
+        "logo": "http://enka.mallframe.com/images/brands/570_low.png?1427371120",
+        "categories": ["Товары для дома"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Guess Accessories",
+        "logo": "http://enka.mallframe.com/images/brands/650_low.png?1442406448",
+        "categories": ["Ювелирные изделия и часы", "Подарки и Сувениры", "Сумки и изделия из кожи", "Обувь"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "ZARA HOME",
+        "logo": "http://enka.mallframe.com/images/brands/576_low.png?1426492855",
+        "categories": ["Товары для дома"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Massimo Dutti",
+        "logo": "http://enka.mallframe.com/images/brands/577_low.png?1426493011",
+        "categories": ["Подарки и Сувениры", "Мужская одежда", "Женская одежда", "Нижнее бельё", "Сумки и изделия из кожи", "Обувь"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "HUGO BOSS",
+        "logo": "http://enka.mallframe.com/images/brands/579_low.png?1426493362",
+        "categories": ["Мужская одежда", "Сумки и изделия из кожи", "Подарки и Сувениры"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Harold",
+        "logo": "http://enka.mallframe.com/images/brands/581_low.png?1427370289",
+        "categories": ["Ювелирные изделия и часы"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Очки.ru",
+        "logo": "http://enka.mallframe.com/images/brands/584_low.png?1427372454",
+        "categories": ["Оптика"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Oysho",
+        "logo": "http://enka.mallframe.com/images/brands/585_low.png?1427373005",
+        "categories": ["Женская одежда", "Нижнее бельё"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Re:store",
+        "logo": "http://enka.mallframe.com/images/brands/587_low.png?1427102273",
+        "categories": ["Мобильная связь", "Быт. техника и электроника"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "De Bon Ton",
+        "logo": "http://enka.mallframe.com/images/brands/590_low.png?1435041896",
+        "categories": ["Ювелирные изделия и часы", "Подарки и Сувениры"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Glance",
+        "logo": "http://enka.mallframe.com/images/brands/593_low.jpg?1482744455",
+        "categories": ["Женская одежда", "Бижутерия", "Сумки и изделия из кожи"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Boardriders",
+        "logo": "http://enka.mallframe.com/images/brands/594_low.png?1427099449",
+        "categories": ["Спорт"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Fornetto",
+        "logo": "http://enka.mallframe.com/images/brands/595_low.png?1427100637",
+        "categories": ["Рестораны", "Кафе"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Mori Cinema",
+        "logo": "http://enka.mallframe.com/images/brands/597_low.png?1432124715",
+        "categories": ["Кино", "Кафе"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Jacote",
+        "logo": "http://enka.mallframe.com/images/brands/599_low.png?1427370982",
+        "categories": ["Детская одежда", "Игрушки"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Hamleys",
+        "logo": "http://enka.mallframe.com/images/brands/601_low.png?1426497532",
+        "categories": ["Подарки и Сувениры", "Игрушки"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Yogurt Frenzy",
+        "logo": "http://enka.mallframe.com/images/brands/603_low.png?1427369516",
+        "categories": ["Фуд-корт", "Рестораны", "Кафе"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Веселая Карамелька",
+        "logo": "http://enka.mallframe.com/images/brands/606_low.png?1442408131",
+        "categories": ["Фуд-корт"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Ezh Store",
+        "logo": "http://enka.mallframe.com/images/brands/608_low.png?1427099795",
+        "categories": ["Подарки и Сувениры"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "OOPS ПУПС",
+        "logo": "http://enka.mallframe.com/images/brands/610_low.jpg?1518094085",
+        "categories": ["Парикмахерская"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Тануки",
+        "logo": "http://enka.mallframe.com/images/brands/611_low.png?1426937220",
+        "categories": ["Рестораны", "Кафе"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Фотосфера",
+        "logo": "http://enka.mallframe.com/images/brands/638_low.png?1439997323",
+        "categories": ["Фото-студия"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Conguitos",
+        "logo": "http://enka.mallframe.com/images/brands/639_low.png?1439996911",
+        "categories": ["Детская одежда", "Детская обувь"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Хачапури",
+        "logo": "http://enka.mallframe.com/images/brands/640_low.png?1440050206",
+        "categories": ["Рестораны"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "ArtAuro",
+        "logo": "http://enka.mallframe.com/images/brands/641_low.png?1440140121",
+        "categories": ["Подарки и Сувениры", "Ювелирные изделия и часы"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Cop Copine",
+        "logo": "http://enka.mallframe.com/images/brands/187_low.png?1448620373",
+        "categories": ["Мужская одежда", "Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Изола",
+        "logo": "http://enka.mallframe.com/images/brands/648_low.jpg?1468502350",
+        "categories": ["Рестораны", "Кафе"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Tommy Hilfiger",
+        "logo": "http://enka.mallframe.com/images/brands/66_low.jpg?1383152512",
+        "categories": ["Мужская одежда", "Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Гербариум",
+        "logo": "http://enka.mallframe.com/images/brands/615_low.png?1426490915",
+        "categories": ["Цветы"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Designboom",
+        "logo": "http://enka.mallframe.com/images/brands/657_low.jpg?1455806934",
+        "categories": ["Товары для дома"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Browissimo Beauty Bar",
+        "logo": "http://enka.mallframe.com/images/brands/678_low.jpg?1449656630",
+        "categories": ["Салон красоты"],
+        "count": 2
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Техно Ру",
+        "logo": "http://enka.mallframe.com/images/brands/682_low.png?1451028336",
+        "categories": ["Игрушки"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Синнабон",
+        "logo": "http://enka.mallframe.com/images/brands/336_low.png?1384786423",
+        "categories": ["Кафе", "Рестораны"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "STENDERS",
+        "logo": "http://enka.mallframe.com/images/brands/93_low.png?1384788459",
+        "categories": ["Ванная и Сауна", "Парфюмерия и косметика"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Home Collection",
+        "logo": "http://enka.mallframe.com/images/brands/692_low.png?1458809397",
+        "categories": ["Товары для дома"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Ситистор",
+        "logo": "http://enka.mallframe.com/images/brands/693_low.png?1458817162",
+        "categories": ["Супермаркет"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Ketroy",
+        "logo": "http://enka.mallframe.com/images/brands/695_low.jpg?1461926822",
+        "categories": ["Женская одежда", "Обувь"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Bubble Time",
+        "logo": "http://enka.mallframe.com/images/brands/715_low.png?1468397666",
+        "categories": ["Кафе", "Фуд-корт"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Eterna",
+        "logo": "http://enka.mallframe.com/images/brands/863_low.jpg?1516176554",
+        "categories": ["Мужская одежда"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Pelmesh",
+        "logo": "http://enka.mallframe.com/images/brands/737_low.png?1474354301",
+        "categories": ["Фуд-корт"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Шербет",
+        "logo": "http://enka.mallframe.com/images/brands/746_low.png?1476088381",
+        "categories": ["Рестораны"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Белый кенгуру",
+        "logo": "http://enka.mallframe.com/images/brands/747_low.jpg?1477486140",
+        "categories": ["Зоопарк"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Fit-n-Go",
+        "logo": "http://enka.mallframe.com/images/brands/750_low.jpg?1477999324",
+        "categories": ["Фитнес"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "All Nails",
+        "logo": "http://enka.mallframe.com/images/brands/754_low.jpg?1479986527",
+        "categories": ["Салон красоты"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Motor City",
+        "logo": "http://enka.mallframe.com/images/brands/757_low.jpg?1482737651",
+        "categories": ["Развлечения для детей"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Золотое Яблоко",
+        "logo": "http://enka.mallframe.com/images/brands/775_low.jpg?1487245376",
+        "categories": ["Парфюмерия и косметика"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Casio Watch Factory",
+        "logo": "http://enka.mallframe.com/images/brands/776_low.jpg?1487583002",
+        "categories": ["Ювелирные изделия и часы"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "La Nature",
+        "logo": "http://enka.mallframe.com/images/brands/777_low.jpg?1488364161",
+        "categories": ["Ювелирные изделия и часы"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "PLOV.COM",
+        "logo": "http://enka.mallframe.com/images/brands/783_low.jpg?1491998496",
+        "categories": ["Фуд-корт"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Калимера",
+        "logo": "http://enka.mallframe.com/images/brands/795_low.jpg?1494422903",
+        "categories": ["Фуд-корт"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "ФАРШ",
+        "logo": "http://enka.mallframe.com/images/brands/797_low.jpg?1494940342",
+        "categories": ["Рестораны", "Кафе"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Сезоны Винни",
+        "logo": "http://enka.mallframe.com/images/brands/798_low.jpg?1495437176",
+        "categories": ["Детская одежда", "Детская обувь"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Magistral",
+        "logo": "http://enka.mallframe.com/images/brands/778_low.jpg?1490267318",
+        "categories": ["Женская одежда", "Нижнее бельё"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Pho Hanoi",
+        "logo": "http://enka.mallframe.com/images/brands/690_low.jpg?1501857116",
+        "categories": ["Фуд-корт"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "BAON",
+        "logo": "http://enka.mallframe.com/images/brands/334_low.png?1440514137",
+        "categories": ["Мужская одежда", "Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Jo Malone",
+        "logo": "http://enka.mallframe.com/images/brands/710_low.jpg?1467879192",
+        "categories": ["Парфюмерия и косметика"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Хобби Геймс",
+        "logo": "http://enka.mallframe.com/images/brands/819_low.jpg?1503407358",
+        "categories": ["Игрушки"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Happy Step",
+        "logo": "http://enka.mallframe.com/images/brands/829_low.jpg?1505120293",
+        "categories": ["Детская обувь"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Magic Moose",
+        "logo": "http://enka.mallframe.com/images/brands/842_low.jpg?1510128565",
+        "categories": ["Детская одежда"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Cote Table",
+        "logo": "http://enka.mallframe.com/images/brands/844_low.jpg?1510580300",
+        "categories": ["Книги - мультимедия- Подарки", "Быт. техника и электроника", "Товары для дома"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "ZAMES",
+        "logo": "http://enka.mallframe.com/images/brands/850_low.jpg?1512651205",
+        "categories": ["Рестораны"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "FRENCH KISS CAFE",
+        "logo": "http://enka.mallframe.com/images/brands/856_low.jpg?1513692757",
+        "categories": ["Кафе"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Coquette Revue",
+        "logo": "http://enka.mallframe.com/images/brands/875_low.jpg?1521126209",
+        "categories": ["Нижнее бельё"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "ЕВРОДОМ",
+        "logo": "http://enka.mallframe.com/images/brands/967_low.jpg?1524835208",
+        "categories": ["Home Goods/Kitchenware"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Marks & Spencer",
+        "logo": "http://enka.mallframe.com/images/brands/969_low.jpg?1525361240",
+        "categories": ["Accessories", "Мужская одежда", "Женская одежда"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "TOM TAILOR",
+        "logo": "http://enka.mallframe.com/images/brands/971_low.jpg?1526286949",
+        "categories": ["Мужская одежда", "Женская одежда", "Unisex Fashion"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "Три Сковородки",
+        "logo": "http://enka.mallframe.com/images/brands/974_low.jpg?1526644383",
+        "categories": ["Фуд-корт"],
+        "count": 1
+    }, {
+        "place": "Kuntsevo Plaza",
+        "name": "CarneVale",
+        "logo": "http://enka.mallframe.com/images/brands/975_low.jpg?1526646728",
+        "categories": ["Детская одежда", "Детская обувь"],
+        "count": 1
+    }, {
+        "place": "St. Petersburg",
+        "name": "Мекс",
+        "logo": "http://enka.mallframe.com/images/brands/28_low.png?1384787914",
+        "categories": ["Мужская одежда", "Женская одежда", "Обувь", "Детская одежда", "Детская обувь"],
+        "count": 1
+    }, {
+        "place": "St. Petersburg",
+        "name": "Пьер Кардэн",
+        "logo": "http://enka.mallframe.com/images/brands/68_low.jpg?1383152390",
+        "categories": ["Мужская одежда"],
+        "count": 1
+    }, {
+        "place": "St. Petersburg",
+        "name": "Радуга",
+        "logo": "http://enka.mallframe.com/images/brands/77_low.jpg?1503580539",
+        "categories": ["Аптека"],
+        "count": 1
+    }, {
+        "place": "St. Petersburg",
+        "name": "Медиа Маркт",
+        "logo": "http://enka.mallframe.com/images/brands/25_low.png?1384787898",
+        "categories": ["Супермаркет", "Быт. техника и электроника"],
+        "count": 1
+    }, {
+        "place": "St. Petersburg",
+        "name": "Тиволи",
+        "logo": "http://enka.mallframe.com/images/brands/298_low.png?1448460296",
+        "categories": ["Мужская одежда", "Женская одежда"],
+        "count": 1
+    }, {
+        "place": "St. Petersburg",
+        "name": "Jeans Symphony",
+        "logo": "http://enka.mallframe.com/images/brands/45_low.png?1434980802",
+        "categories": ["Мужская одежда", "Женская одежда"],
+        "count": 1
+    }, {
+        "place": "St. Petersburg",
+        "name": "Студия Загара Фиджи",
+        "logo": "http://enka.mallframe.com/images/brands/258_low.png?1448460367",
+        "categories": ["Салон красоты"],
+        "count": 1
+    }, {
+        "place": "St. Petersburg",
+        "name": "Obuv.com",
+        "logo": "http://enka.mallframe.com/images/brands/667_low.png?1448376354",
+        "categories": [],
+        "count": 1
+    }, {
+        "place": "St. Petersburg",
+        "name": "Смена",
+        "logo": "http://enka.mallframe.com/images/brands/669_low.jpg?1484554546",
+        "categories": ["Мужская одежда", "Женская одежда", "Обувь"],
+        "count": 1
+    }, {
+        "place": "St. Petersburg",
+        "name": "Гуси-Лебеди",
+        "logo": "http://enka.mallframe.com/images/brands/670_low.png?1448549932",
+        "categories": ["Рестораны"],
+        "count": 1
+    }, {
+        "place": "St. Petersburg",
+        "name": "Азиана",
+        "logo": "http://enka.mallframe.com/images/brands/674_low.jpg?1503578663",
+        "categories": ["Фуд-корт", "Кафе"],
+        "count": 1
+    }, {
+        "place": "St. Petersburg",
+        "name": "Миллион открыток",
+        "logo": "http://enka.mallframe.com/images/brands/675_low.jpg?1503579640",
+        "categories": ["Книги - мультимедия- Подарки"],
+        "count": 1
+    }, {
+        "place": "St. Petersburg",
+        "name": "1000 и Одна Туфелька",
+        "logo": "http://enka.mallframe.com/images/brands/676_low.png?1448549591",
+        "categories": ["Обувь", "Детская обувь"],
+        "count": 1
+    }, {
+        "place": "St. Petersburg",
+        "name": "Хлоп-Топ",
+        "logo": "http://enka.mallframe.com/images/brands/752_low.jpg?1478786693",
+        "categories": ["Развлечения для детей"],
+        "count": 1
+    }, {
+        "place": "St. Petersburg",
+        "name": "Батутный Клуб 720",
+        "logo": "http://enka.mallframe.com/images/brands/753_low.jpg?1478787577",
+        "categories": ["Батут"],
+        "count": 1
+    }, {
+        "place": "St. Petersburg",
+        "name": "KOTON",
+        "logo": "http://enka.mallframe.com/images/brands/821_low.jpg?1503565317",
+        "categories": ["Мужская одежда", "Женская одежда", "Обувь", "Детская одежда", "Детская обувь"],
+        "count": 1
+    }, {
+        "place": "St. Petersburg",
+        "name": "Табакерка",
+        "logo": "http://enka.mallframe.com/images/brands/822_low.jpg?1503565528",
+        "categories": ["Табак-Cигареты"],
+        "count": 1
+    }, {
+        "place": "St. Petersburg",
+        "name": "Архитектор Красоты",
+        "logo": "http://enka.mallframe.com/images/brands/823_low.jpg?1503566579",
+        "categories": ["Парфюмерия и косметика", "Уход за волосами"],
+        "count": 1
+    }, {
+        "place": "St. Petersburg",
+        "name": "Quicksilver",
+        "logo": "http://enka.mallframe.com/images/brands/824_low.jpg?1503572745",
+        "categories": ["Мужская одежда", "Женская одежда", "Обувь"],
+        "count": 1
+    }, {
+        "place": "St. Petersburg",
+        "name": "Emi",
+        "logo": "http://enka.mallframe.com/images/brands/825_low.jpg?1503574567",
+        "categories": ["Женская одежда"],
+        "count": 1
+    }, {
+        "place": "St. Petersburg",
+        "name": "playToday",
+        "logo": "http://enka.mallframe.com/images/brands/826_low.jpg?1503575079",
+        "categories": ["Детская одежда", "Детская обувь"],
+        "count": 1
+    }, {
+        "place": "St. Petersburg",
+        "name": "Nika Moda",
+        "logo": "http://enka.mallframe.com/images/brands/827_low.jpg?1503577403",
+        "categories": ["Детская одежда", "Детская обувь"],
+        "count": 1
+    }, {
+        "place": "St. Petersburg",
+        "name": "Студия маникюра Лены Лениной",
+        "logo": "http://enka.mallframe.com/images/brands/360_low.jpg?1503580192",
+        "categories": ["Салон красоты"],
+        "count": 1
+    }, {
+        "place": "St. Petersburg",
+        "name": "Ателье «Любимое дело»",
+        "logo": "http://enka.mallframe.com/images/brands/828_low.jpg?1503580961",
+        "categories": ["Химчистка - ателье - ремонт"],
+        "count": 1
+    }, {
+        "place": "St. Petersburg",
+        "name": "Grandi Brands",
+        "logo": "http://enka.mallframe.com/images/brands/835_low.jpg?1506954801",
+        "categories": ["Мужская одежда", "Обувь"],
+        "count": 1
+    }, {
+        "place": "St. Petersburg",
+        "name": "Intersport",
+        "logo": "http://enka.mallframe.com/images/brands/836_low.jpg?1506955363",
+        "categories": ["Мужская одежда", "Женская одежда", "Спорт"],
+        "count": 1
+    }, {
+        "place": "St. Petersburg",
+        "name": "U.S. POLO ASSN",
+        "logo": "http://enka.mallframe.com/images/brands/841_low.jpg?1509797527",
+        "categories": ["Мужская одежда", "Женская одежда", "Обувь"],
+        "count": 1
+    }, {
+        "place": "St. Petersburg",
+        "name": "Cacharel",
+        "logo": "http://enka.mallframe.com/images/brands/840_low.jpg?1509796574",
+        "categories": ["Мужская одежда", "Обувь"],
+        "count": 1
+    }, {
+        "place": "St. Petersburg",
+        "name": "Di Bora",
+        "logo": "http://enka.mallframe.com/images/brands/858_low.jpg?1513839618",
+        "categories": ["Обувь"],
+        "count": 1
+    }, {
+        "place": "St. Petersburg",
+        "name": "ТЕРМИНАЛ",
+        "logo": "http://enka.mallframe.com/images/brands/866_low.jpg?1516958079",
+        "categories": ["Женская одежда"],
+        "count": 1
+    }, {
+        "place": "St. Petersburg",
+        "name": "Soda Firenze",
+        "logo": "http://enka.mallframe.com/images/brands/229_low.jpg?1517384068",
+        "categories": ["Женская одежда"],
+        "count": 1
+    }, {
+        "place": "St. Petersburg",
+        "name": "ANEX SHOP",
+        "logo": "http://enka.mallframe.com/images/brands/979_low.jpg?1526977789",
+        "categories": ["Агентства"],
+        "count": 1
+    }, {
+        "place": "St. Petersburg",
+        "name": "LUXURY",
+        "logo": "http://enka.mallframe.com/images/brands/985_low.jpg?1527520430",
+        "categories": ["Маникюр&Педикюр", "Beauty/Cosmetics", "Салон красоты"],
+        "count": 1
+    }]
+}
