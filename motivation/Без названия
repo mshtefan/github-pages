@@ -1,0 +1,8 @@
+import requests
+import csv
+
+
+with open('points.csv') as csvfile:
+     csvreader = csv.reader(csvfile, delimiter=' ', quotechar='|')
+     for row in csvreader:
+         print(row[0],row[1])

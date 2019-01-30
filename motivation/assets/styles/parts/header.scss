@@ -1,0 +1,65 @@
+.header {
+  width: 100%;
+  max-width: none;
+  text-align: center;
+  padding-top:34px;
+  background-color: #fff;
+  .logo {
+    margin-left: $padding-global;
+    width: 52px;
+    height:32px;
+    display: inline-block;
+    background-image: url('../img/logo.png');
+    -webkit-background-size: contain;
+    background-size: contain;
+    background-repeat: no-repeat;
+    vertical-align: top;
+    @media screen and (max-width: 600px) {
+      margin-left: $padding-global-min;
+    }
+  }
+  .menu {
+    display: inline-block;
+    margin: 0;
+    vertical-align: top;
+    li {
+      display: inline-block;
+      vertical-align: top;
+      padding-top: 8px;
+      a {
+        line-height: 23px;
+        display: inline-block;
+        margin-right: 20px;
+        color: #7a8a91;
+        text-decoration: none;
+        font-size: 15px;
+      }
+    }
+  }
+  .phone {
+    margin-right: $padding-global;
+    float: right;
+    font-size: 15px;
+    color: #7a8a91;
+    display: inline-block;
+    padding-left:22px;
+    position: relative;
+    text-decoration: none;
+    margin-top: 9px;
+    @media screen and (max-width: 600px) {
+      margin-right: $padding-global-min;
+    }
+    &:before {
+      content: '';
+      display: inline-block;
+      left: 0;
+      top: 50%;
+      transform: translate3d(0,-50%,0);
+      position: absolute;
+      background-image: url('../img/phone.png');
+      background-size: cover;
+      width: 12px;
+      height:20px;
+    }
+  }
+}

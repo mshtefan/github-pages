@@ -1,0 +1,91 @@
+.evaluate {
+  padding: 0 $padding-global;
+  box-sizing: border-box;
+  width: 100%;
+  text-align: center;
+  margin-top: 220px;
+  margin-bottom: 150px;
+  @media screen and (max-width: 600px) {
+    margin-top: 120px;
+    margin-bottom: 70px;
+  }
+  @media screen and (max-width: 600px) {
+    padding: 0 $padding-global-min;
+  }
+  .main {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 104px;
+    flex-direction: row;
+    @media screen and (max-width: 970px) {
+      flex-direction: column;
+    }
+    .item {
+      max-width: 320px;
+      margin-right: 40px;
+      display: flex;
+      flex-direction: column;
+      @media screen and (max-width: 970px) and (min-width: 800px){
+        flex-direction: row;
+        max-width: 100%;
+        margin-bottom: 50px;
+      }
+      @media screen and (max-width: 800px){
+        max-width: 100%;
+        margin-right: 0;
+        margin-bottom: 70px;
+      }
+      &.last {
+        margin-right: 0;
+      }
+      .img {
+        width: 100%;
+        height:250px;
+        @media screen and (max-width: 970px) and (min-width: 800px) {
+          flex: 0 0 180px;
+          margin-right: 70px;
+        }
+        @media screen and (max-width: 800px){
+          height: auto;
+        }
+        &.img-df{
+          position: relative;
+          &:before {
+            content: '';
+            opacity: 0.3;
+            border-radius: 10px;
+            background-color: #d8d8d8;
+            height:193px;
+            width: 100%;
+            display: inline-block;
+          }
+        }
+        img {
+          margin-left: -20px;
+          margin-right: -20px;
+          width: calc( 100% + 40px );
+          @media screen and (max-width: 800px){
+            max-width: 450px;
+          }
+        }
+      }
+      .head {
+        width: 100%;
+        display: inline-block;
+        font-size: 18px;
+        font-weight: bold;
+        line-height: 1.28;
+        color: #141619;
+        margin-bottom: 12px;
+      }
+      .desc {
+        display: inline-block;
+        width: 100%;
+        font-size: 15px;
+        line-height: 1.6;
+        color: #596a72;
+      }
+    }
+  }
+}
