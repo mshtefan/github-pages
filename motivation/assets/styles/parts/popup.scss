@@ -60,6 +60,11 @@
           }
           .survey-block {
             margin-bottom: 20px;
+            .changed:not(.submittable):not(.focused) {
+              input {
+                border: #E1B3BC 1px solid;
+              }
+            }
             div br {
               display: none;
             }
@@ -74,6 +79,10 @@
               border-radius: 2px;
               padding-left: 32px;
               background-color: #fff;
+              font-weight: 300;
+              &::placeholder {
+                opacity: 0.7;
+              }
             }
             div select {
               appearance: none;
